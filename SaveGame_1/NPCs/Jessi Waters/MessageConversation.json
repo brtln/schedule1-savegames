@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "ConversationIndex": 5,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 4850048,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -334448247,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1646490830,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -442596056,
+            "Text": "I NEED 7x Sour Diesel. I GOT <color=#46CB4F>$410</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1233309371,
+            "Text": "Forget it!",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 373131342,
+            "Text": "Need me 8x OG Kush! I'll pay <color=#46CB4F>$375</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1212549671,
+            "Text": "How about 8x Green Crack for $375?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 845844611,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1030027138,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1638626181,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

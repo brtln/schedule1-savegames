@@ -1,0 +1,20 @@
+{
+    "DataType": "PotConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "Seed": {
+        "ItemID": "greencrackseed"
+    },
+    "Additive1": {
+        "ItemID": "fertilizer"
+    },
+    "Additive2": {
+        "ItemID": ""
+    },
+    "Additive3": {
+        "ItemID": ""
+    },
+    "Destination": {
+        "ObjectGUID": "c82fb029-eeb7-43d7-8c64-1a032aa87f89"
+    }
+}

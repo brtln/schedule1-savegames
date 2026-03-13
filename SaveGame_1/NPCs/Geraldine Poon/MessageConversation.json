@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "ConversationIndex": 10,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -431109079,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1045587963,
+            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1943619409,
+            "Text": "U got 6x Green Crack??? I'll pay <color=#46CB4F>$400</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 556233557,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1048110609,
+            "Text": "Good!! I'll see u <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 88061027,
+            "Text": "I NEED 8x OG Kush. I GOT <color=#46CB4F>$390</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1533546433,
+            "Text": "How about 8x Granddaddy Purple for $490?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 124509628,
+            "Text": "Damn it fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1902115218,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1980783862,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

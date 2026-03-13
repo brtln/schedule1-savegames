@@ -1,0 +1,51 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "Dependence": 0.22949999570846559,
+    "PurchaseableProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple"
+    ],
+    "ProductAffinities": [
+        1.0,
+        0.4000000059604645,
+        0.7400000095367432
+    ],
+    "TimeSinceLastDealCompleted": 2562,
+    "TimeSinceLastDealOffered": 371,
+    "OfferedDeals": 15,
+    "CompletedDeals": 13,
+    "IsContractOffered": true,
+    "OfferedContract": {
+        "Payment": 290.0,
+        "Products": {
+            "entries": [
+                {
+                    "ProductID": "ogkush",
+                    "Quality": 1,
+                    "Quantity": 6
+                }
+            ]
+        },
+        "DeliveryLocationGUID": "40ffadb0-0dfb-408c-a940-f3dd81f04c89",
+        "DeliveryWindow": {
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
+        },
+        "Expires": true,
+        "ExpiresAfter": 1,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 25,
+        "time": 1201
+    },
+    "TimeSincePlayerApproached": 1025935,
+    "TimeSinceInstantDealOffered": 7154,
+    "HasBeenRecommended": false
+}

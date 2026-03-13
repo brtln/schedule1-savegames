@@ -1,0 +1,20 @@
+{
+    "DataType": "BotanistConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "Bed": {
+        "ObjectGUID": "fb4c6dce-9c3d-4b94-9a93-b1dd0fb26ced"
+    },
+    "Supplies": {
+        "ObjectGUID": ""
+    },
+    "Pots": {
+        "ObjectGUIDs": [
+            "26bcdb9a-78c5-4bdf-bc10-688d42aa8c8c",
+            "9be524e2-7ecb-407a-a8db-2fc0efea9709",
+            "cecd5e95-80ca-49df-b5f8-3a0de11482c0",
+            "2f20de86-ef25-4e8a-ba4e-862a79c06667",
+            "749a20b2-7417-4cc4-88bf-19a297967bb8"
+        ]
+    }
+}

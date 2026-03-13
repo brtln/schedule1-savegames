@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 4,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -324517711,
+            "Text": "Yo homie, can I get 5x OG Kush? I'll pay <color=#46CB4F>$255</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1068926970,
+            "Text": "How about 5x OG Kush for $260?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 645472480,
+            "Text": "Alright dude. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1803678264,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 597600096,
+            "Text": "Sweet as homie, I'll meet you <b>behind taco ticklers</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1041610138,
+            "Text": "Yo homie, can I get 4x Green Crack? I'll pay <color=#46CB4F>$265</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1687017082,
+            "Text": "Nah nevermind man",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1849368932,
+            "Text": "Whats up bro, I'm after 6x OG Kush. I can pay <color=#46CB4F>$310</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 133278152,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -526269009,
+            "Text": "Cheers bro, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
