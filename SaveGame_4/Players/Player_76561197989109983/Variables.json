@@ -1,0 +1,175 @@
+{
+    "DataType": "VariableCollectionData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.3f3",
+    "Variables": [
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Sleep_Count",
+            "Value": "4"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Inventory_Weed_Count",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Inventory_Trimmers",
+            "Value": "1"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Inventory_WateringCan",
+            "Value": "0"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Inventory_GrowTent",
+            "Value": "4"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "Dan_Greeting_Done",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "BodySearchTutorialDone",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "BaseballBatPickedUp",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "PickupTutorialDone",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "InputHintsTutorialDone",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "MixingHintsShown",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "PickpocketTutorialDone",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "ItemAmountSelectionTutorialDone",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "PackagingStationMk2TutorialDone",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "StanGreeted",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "OscarGreeted",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "FixerGreeted",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "RayGreeted",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "JeremyGreeted",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "MarcoGreeted",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "TrashRecycled",
+            "Value": "38"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "PawnShopAngeredToday",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "MushroomTemperatureHintShown",
+            "Value": "False"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "Name": "ACToggleHintShown",
+            "Value": "False"
+        }
+    ]
+}

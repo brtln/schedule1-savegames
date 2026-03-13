@@ -1,0 +1,29 @@
+{
+    "DataType": "SewerData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.3f3",
+    "IsSewerUnlocked": false,
+    "IsRandomWorldKeyCollected": false,
+    "RandomSewerKeyLocationIndex": 40,
+    "HasSewerKingBeenDefeated": false,
+    "HoursSinceLastSewerGoblinAppearance": 1398,
+    "RandomKeyPossessorIndex": 1,
+    "RandomKeyPossessorSet": true,
+    "ActiveMushroomLocationIndices": [
+        20,
+        27,
+        41,
+        45,
+        26,
+        47,
+        37,
+        19,
+        31,
+        18,
+        36,
+        5,
+        14,
+        8,
+        15
+    ]
+}
