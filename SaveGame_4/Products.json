@@ -30,48 +30,48 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "sourdiesel",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "sourdiesel",
             "Output": "weddingass"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "granddaddypurple",
             "Output": "strawberrydurkle"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "granddaddypurple",
             "Output": "granddaddypurple"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "mouthwash",
+            "Product": "mouthwash",
+            "Mixer": "granddaddypurple",
             "Output": "lastink"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "gasoline",
+            "Product": "gasoline",
+            "Mixer": "granddaddypurple",
             "Output": "bananagrool"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "motoroil",
+            "Product": "motoroil",
+            "Mixer": "granddaddypurple",
             "Output": "biocheese"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "energydrink",
+            "Product": "energydrink",
+            "Mixer": "granddaddypurple",
             "Output": "strawberryshart"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "greencrack",
             "Output": "aspensmegma"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "megabean",
+            "Product": "megabean",
+            "Mixer": "greencrack",
             "Output": "pinkpuke"
         }
     ],
@@ -3235,6 +3235,42 @@
                 }
             ],
             "AmountPaid": 273.25
+        },
+        {
+            "ReceiptId": 2105746239,
+            "CompletedBy": 1,
+            "CustomerId": "austin_steiner",
+            "CompletionTime": {
+                "elapsedDays": 15,
+                "time": 922
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 362.25
         }
     ]
 }

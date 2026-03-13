@@ -15,14 +15,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_Weed_Count",
-            "Value": "22"
+            "Value": "33"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_Trimmers",
-            "Value": "0"
+            "Value": "1"
         },
         {
             "DataType": "VariableData",

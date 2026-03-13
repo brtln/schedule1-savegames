@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "130"
+            "Value": "131"
         },
         {
             "DataType": "VariableData",
@@ -57,7 +57,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "121"
+            "Value": "122"
         },
         {
             "DataType": "VariableData",
@@ -106,7 +106,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "27"
+            "Value": "28"
         },
         {
             "DataType": "VariableData",
