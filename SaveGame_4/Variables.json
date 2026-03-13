@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "137"
+            "Value": "146"
         },
         {
             "DataType": "VariableData",
@@ -57,7 +57,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "126"
+            "Value": "130"
         },
         {
             "DataType": "VariableData",
@@ -92,7 +92,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Deaddrops_Ordered",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",
@@ -106,7 +106,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "30"
+            "Value": "33"
         },
         {
             "DataType": "VariableData",
