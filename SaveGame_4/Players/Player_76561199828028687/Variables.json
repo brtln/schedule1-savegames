@@ -15,7 +15,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_Weed_Count",
-            "Value": "33"
+            "Value": "18"
         },
         {
             "DataType": "VariableData",
@@ -99,7 +99,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagingStationMk2TutorialDone",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
