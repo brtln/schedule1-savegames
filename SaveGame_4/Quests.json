@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($40,230 / $10,000)",
+                    "Name": "Earn $10,000 ($40,779 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1379,6 +1379,33 @@
                     "State": 0
                 }
             ]
+        },
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "cb435761-2a0d-4ca4-a03b-b82aa476cc18",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the western Gas-Mart",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "Behind Gas-Mart",
+                    "State": 1
+                }
+            ]
         }
     ],
     "Contracts": [
@@ -1386,44 +1413,44 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "d3e69cd9-31a7-4b04-b7b0-cf75e9ff8f5d",
+            "GUID": "ade67b9b-bb1d-4cb7-bdee-1abfd39d976d",
             "State": 1,
             "IsTracked": true,
-            "Title": "Deal for Kim",
-            "Description": "Kim has requested a delivery of 5x Granddaddy Purple under the west bridge for $220.",
+            "Title": "Deal for Sam",
+            "Description": "Sam has requested a delivery of 3x Granddaddy Purple behind Thompson construction and demolition for $135.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 16,
-                "Time": 1800
+                "ElapsedDays": 17,
+                "Time": 1200
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "5x Granddaddy Purple, Under west bridge",
+                    "Name": "3x Granddaddy Purple, Behind Thompson construction and demolition",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "c1b11ce1-2d06-4b9a-a563-21bbd3dacfa8",
-            "Payment": 220.0,
+            "CustomerGUID": "11e84ada-89f2-433a-b95b-6b2d95275c33",
+            "Payment": 135.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "granddaddypurple",
                         "Quality": 1,
-                        "Quantity": 5
+                        "Quantity": 3
                     }
                 ]
             },
-            "DeliveryLocationGUID": "f9bf06bd-e4f8-402c-b0a1-61830e83e01a",
+            "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
@@ -1431,24 +1458,76 @@
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
                 "ElapsedDays": 16,
-                "Time": 719
+                "Time": 1812
             }
         },
         {
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "50d55f37-3b2d-4f71-a34f-01d5209f98be",
+            "GUID": "5d6e95a7-e0d2-4d85-bf4b-cbe3410c1804",
             "State": 1,
             "IsTracked": true,
-            "Title": "Deal for Joyce",
-            "Description": "Joyce has requested a delivery of 4x Granddaddy Purple behind the pawn shop for $210.",
+            "Title": "Deal for Peggy",
+            "Description": "Peggy has requested a delivery of 6x Granddaddy Purple behind Thompson construction and demolition for $280.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 1200
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "6x Granddaddy Purple, Behind Thompson construction and demolition",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "bd6cb42c-9379-4358-b3c7-acfc9c628710",
+            "Payment": 280.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 6
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
                 "ElapsedDays": 16,
+                "Time": 1825
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "2a671d0b-4c6b-4f49-ac49-04d113f67e54",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Beth",
+            "Description": "Beth has requested a delivery of 4x Granddaddy Purple behind Hyland gun range for $205.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
                 "Time": 1800
             },
             "Entries": [
@@ -1456,12 +1535,12 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, Behind pawn shop",
+                    "Name": "4x Granddaddy Purple, Behind Hyland Range",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "e2104703-374e-4c62-92b2-9157cac91eca",
-            "Payment": 210.0,
+            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+            "Payment": 205.0,
             "ProductList": {
                 "entries": [
                     {
@@ -1471,7 +1550,7 @@
                     }
                 ]
             },
-            "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
+            "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 1200,
@@ -1483,9 +1562,90 @@
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
                 "ElapsedDays": 16,
-                "Time": 1150
+                "Time": 2020
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "e0e72b97-abe6-4774-afd7-be497242fe3a",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Trent",
+            "Description": "Trent has requested a delivery of 3x Granddaddy Purple in the west construction site for $155.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "3x Granddaddy Purple, Construction site",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
+            "Payment": 155.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 3
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 16,
+                "Time": 2023
             }
         }
     ],
-    "DeaddropQuests": []
+    "DeaddropQuests": [
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "cb435761-2a0d-4ca4-a03b-b82aa476cc18",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the western Gas-Mart",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "Behind Gas-Mart",
+                    "State": 1
+                }
+            ],
+            "DeaddropGUID": "64d10032-64a9-4cd9-8750-8048d71c5029"
+        }
+    ]
 }
