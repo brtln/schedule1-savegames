@@ -19,9 +19,7 @@
     ],
     "ListedProducts": [
         "greencrack",
-        "granddaddypurple",
-        "aspensmegma",
-        "pinkpuke"
+        "granddaddypurple"
     ],
     "ActiveMixOperation": {
         "ProductID": "",
@@ -30,48 +28,48 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "viagor",
-            "Mixer": "sourdiesel",
+            "Product": "sourdiesel",
+            "Mixer": "viagor",
             "Output": "weddingass"
         },
         {
-            "Product": "viagor",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "viagor",
             "Output": "strawberrydurkle"
         },
         {
-            "Product": "flumedicine",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "flumedicine",
             "Output": "granddaddypurple"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "mouthwash",
             "Output": "lastink"
         },
         {
-            "Product": "gasoline",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "gasoline",
             "Output": "bananagrool"
         },
         {
-            "Product": "motoroil",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "motoroil",
             "Output": "biocheese"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "energydrink",
             "Output": "strawberryshart"
         },
         {
-            "Product": "flumedicine",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "flumedicine",
             "Output": "aspensmegma"
         },
         {
-            "Product": "megabean",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "megabean",
             "Output": "pinkpuke"
         }
     ],

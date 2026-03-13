@@ -57,21 +57,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "122"
+            "Value": "126"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagedProductCount",
-            "Value": "121"
+            "Value": "123"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "SownSeedsCount",
-            "Value": "14"
+            "Value": "18"
         },
         {
             "DataType": "VariableData",
@@ -99,7 +99,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "ListedProductsCount",
-            "Value": "4"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",
