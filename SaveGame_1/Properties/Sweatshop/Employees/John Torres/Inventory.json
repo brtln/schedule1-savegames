@@ -1,0 +1,9 @@
+{
+    "Items": [
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"sourdieselseed\",\"Quantity\":2}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"greencrackseed\",\"Quantity\":2}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"granddaddypurpleseed\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"longlifesoil\",\"Quantity\":2}"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "DataType": "PotConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "Seed": {
+        "ItemID": "granddaddypurpleseed"
+    },
+    "Additive1": {
+        "ItemID": "pgr"
+    },
+    "Additive2": {
+        "ItemID": ""
+    },
+    "Additive3": {
+        "ItemID": ""
+    },
+    "Destination": {
+        "ObjectGUID": ""
+    }
+}

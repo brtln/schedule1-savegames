@@ -1,0 +1,75 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "greendevelhole",
+        "saurerdickmacher"
+    ],
+    "ListedProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "sourdiesel",
+            "Mixer": "viagra",
+            "Output": "saurerdickmacher"
+        },
+        {
+            "Product": "saurerdickmacher",
+            "Mixer": "donut",
+            "Output": "greendevelhole"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 40
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 50
+        },
+        {
+            "String": "greencrack",
+            "Int": 55
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 60
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "greendevelhole",
+            "Int": 66
+        },
+        {
+            "String": "saurerdickmacher",
+            "Int": 56
+        }
+    ],
+    "FavouritedProducts": [
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple"
+    ]
+}
