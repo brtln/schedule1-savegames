@@ -4,11 +4,11 @@
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"granddaddypurple\",\"Quantity\":2,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"granddaddypurple\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1621.900146484375}"
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1221.900146484375}"
     ],
     "SlotFilters": [
         {

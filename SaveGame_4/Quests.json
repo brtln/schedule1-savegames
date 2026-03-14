@@ -125,7 +125,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "c7c962c4-e486-4161-95e2-49ba01f49e49",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Botanists",
             "Description": "Learn how to manage botanists.",
@@ -164,14 +164,14 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Set the pot/grow tent destination",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Place cash in the botanist's locker",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -263,7 +263,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "8e9bf6c1-9c89-4abe-9ac2-f01602e03404",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Handlers",
             "Description": "Learn how to manage packagers.",
@@ -281,21 +281,21 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Use the management clipboard to assign the handler to a locker",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Assign a packaging station to the handler",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Place cash in the handler's locker",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
