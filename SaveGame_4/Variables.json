@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "155"
+            "Value": "168"
         },
         {
             "DataType": "VariableData",
@@ -64,14 +64,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagedProductCount",
-            "Value": "159"
+            "Value": "174"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "SownSeedsCount",
-            "Value": "21"
+            "Value": "25"
         },
         {
             "DataType": "VariableData",
@@ -85,7 +85,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "SuccessfulSampleCount",
-            "Value": "11"
+            "Value": "12"
         },
         {
             "DataType": "VariableData",
@@ -106,7 +106,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "36"
+            "Value": "39"
         },
         {
             "DataType": "VariableData",
@@ -232,7 +232,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "LifetimeEmployeesRecruited",
-            "Value": "2"
+            "Value": "3"
         },
         {
             "DataType": "VariableData",
