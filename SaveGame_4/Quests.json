@@ -125,8 +125,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "c7c962c4-e486-4161-95e2-49ba01f49e49",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "Botanists",
             "Description": "Learn how to manage botanists.",
             "Expires": false,
@@ -143,7 +143,7 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Use the management clipboard to assign the botanist to a locker",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($41,276 / $10,000)",
+                    "Name": "Earn $10,000 ($43,080 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1384,7 +1384,7 @@
             "DataType": "DeaddropQuestData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "cb435761-2a0d-4ca4-a03b-b82aa476cc18",
+            "GUID": "59c3be52-1bae-4b25-a576-5d6836bbbd4b",
             "State": 1,
             "IsTracked": true,
             "Title": "Collect Dead Drop",
@@ -1413,30 +1413,82 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "2a671d0b-4c6b-4f49-ac49-04d113f67e54",
+            "GUID": "2599c7ab-d6b1-4992-bab5-50a17262f845",
             "State": 1,
             "IsTracked": true,
-            "Title": "Deal for Beth",
-            "Description": "Beth has requested a delivery of 4x Granddaddy Purple behind Hyland gun range for $205.",
+            "Title": "Deal for Doris",
+            "Description": "Doris has requested a delivery of 5x Granddaddy Purple behind the pawn shop for $230.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1800
+                "ElapsedDays": 18,
+                "Time": 1200
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, Behind Hyland Range",
+                    "Name": "5x Granddaddy Purple, Behind pawn shop",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
-            "Payment": 205.0,
+            "CustomerGUID": "959103b2-1e7c-4e87-a47f-dad6acbbed86",
+            "Payment": 230.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 1234
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "42dac19c-3de3-4a38-b7ea-5def9548f0ed",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Ludwig",
+            "Description": "Ludwig has requested a delivery of 4x Granddaddy Purple next to Bud's bar for $210.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1200
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "4x Granddaddy Purple, Next to Bud's Bar",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "ac55fc3b-804a-46e3-9adc-19aaf79bed5b",
+            "Payment": 210.0,
             "ProductList": {
                 "entries": [
                     {
@@ -1446,115 +1498,115 @@
                     }
                 ]
             },
-            "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
+            "DeliveryLocationGUID": "7549f5e4-3702-4890-aabf-a9a170cdf15b",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 16,
-                "Time": 2020
+                "ElapsedDays": 17,
+                "Time": 1505
             }
         },
         {
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "e0e72b97-abe6-4774-afd7-be497242fe3a",
+            "GUID": "1d1e9d88-5368-4c62-9b6a-f1c200f748d1",
             "State": 1,
             "IsTracked": true,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 3x Granddaddy Purple in the west construction site for $155.",
+            "Title": "Deal for Chloe",
+            "Description": "Chloe has requested a delivery of 4x Granddaddy Purple at the basketball court for $210.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1800
+                "ElapsedDays": 18,
+                "Time": 1200
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "3x Granddaddy Purple, Construction site",
+                    "Name": "4x Granddaddy Purple, Basketball court",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
-            "Payment": 155.0,
+            "CustomerGUID": "16d03826-0ef9-4e25-b5ef-63aca1728618",
+            "Payment": 210.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "granddaddypurple",
                         "Quality": 1,
-                        "Quantity": 3
+                        "Quantity": 4
                     }
                 ]
             },
-            "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
+            "DeliveryLocationGUID": "084e7d19-60a4-46ef-a64c-bb0b2d8a7260",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 16,
-                "Time": 2023
+                "ElapsedDays": 17,
+                "Time": 1513
             }
         },
         {
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "3cfb41a2-ebd1-48fa-970d-da70bb419f5c",
+            "GUID": "e592af36-f694-4a89-9fa7-3be9a905301e",
             "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Austin",
-            "Description": "Austin has requested a delivery of 6x Granddaddy Purple at the skatepark for $315.",
+            "IsTracked": true,
+            "Title": "Deal for Geraldine",
+            "Description": "Geraldine has requested a delivery of 9x Granddaddy Purple at the skatepark for $495.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1800
+                "ElapsedDays": 18,
+                "Time": 1200
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "6x Granddaddy Purple, Skatepark",
+                    "Name": "9x Granddaddy Purple, Skatepark",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "bfdeee5b-49a0-45b4-8e08-3e9badf5551d",
-            "Payment": 315.0,
+            "CustomerGUID": "18acf346-c4da-410c-9ed9-12c1101fb26d",
+            "Payment": 495.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 6
+                        "Quality": 0,
+                        "Quantity": 9
                     }
                 ]
             },
             "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
@@ -1562,77 +1614,25 @@
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
                 "ElapsedDays": 17,
-                "Time": 1013
+                "Time": 1517
             }
         },
         {
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "fb18f59b-7379-4b62-ba2c-cef5cbf9484d",
+            "GUID": "6a22afe5-7a78-4cab-9157-5aade1af3d2f",
             "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Kyle",
-            "Description": "Kyle has requested a delivery of 6x Granddaddy Purple next to the barbershop for $315.",
+            "IsTracked": true,
+            "Title": "Deal for Kathy",
+            "Description": "Kathy has requested a delivery of 6x Granddaddy Purple behind Sauerkraut Supreme pizzeria for $315.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1800
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "6x Granddaddy Purple, Next to barbershop",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "e8e4e974-86b8-49cd-8252-a43b76f14708",
-            "Payment": 315.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 6
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "40ffadb0-0dfb-408c-a940-f3dd81f04c89",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1034
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "280b27e3-1a2f-41fb-a5ec-38dab7b6fa67",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Peter",
-            "Description": "Peter has requested a delivery of 6x Granddaddy Purple behind Sauerkraut Supreme pizzeria for $315.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 17,
-                "Time": 1800
+                "ElapsedDays": 18,
+                "Time": 1200
             },
             "Entries": [
                 {
@@ -1643,7 +1643,7 @@
                     "State": 1
                 }
             ],
-            "CustomerGUID": "7b74bf42-5b10-4e89-936e-c36b307bd775",
+            "CustomerGUID": "9375b541-2ffe-49f0-96fd-004231651f88",
             "Payment": 315.0,
             "ProductList": {
                 "entries": [
@@ -1657,6 +1657,58 @@
             "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
             "DeliveryWindow": {
                 "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 1635
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "b85148d2-0b67-4fe3-9625-3a016f75738b",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Peggy",
+            "Description": "Peggy has requested a delivery of 6x Granddaddy Purple in front of the motel for $315.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "6x Granddaddy Purple, In front of motel",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "bd6cb42c-9379-4358-b3c7-acfc9c628710",
+            "Payment": 315.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 6
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
+            "DeliveryWindow": {
+                "IsEnabled": true,
                 "WindowStartTime": 1200,
                 "WindowEndTime": 1800
             },
@@ -1666,7 +1718,215 @@
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
                 "ElapsedDays": 17,
-                "Time": 1050
+                "Time": 2009
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "9fa30b12-8a5e-485b-8899-df1ea9ec6b88",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Donna",
+            "Description": "Donna has requested a delivery of 4x Granddaddy Purple behind the shipping containers near Sauerkraut Supreme for $210.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "4x Granddaddy Purple, Shipping containers near Sauerkraut Supreme",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
+            "Payment": 210.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 4
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "72acb3fb-6e9c-4a14-b52a-5b14f2abf970",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 2019
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "0bb39f00-8d85-4ca2-8210-332d042094ca",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Mick",
+            "Description": "Mick has requested a delivery of 5x Granddaddy Purple at the north waterfront for $235.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "5x Granddaddy Purple, North waterfront",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "d7a1ac26-77c2-42f3-aa82-bee1f6a99cb9",
+            "Payment": 235.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 2027
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "ce57a267-7c4c-4384-9851-839dfa7affbb",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Kim",
+            "Description": "Kim has requested a delivery of 5x Granddaddy Purple behind the construction site for $260.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "5x Granddaddy Purple, Behind the construction site",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "c1b11ce1-2d06-4b9a-a563-21bbd3dacfa8",
+            "Payment": 260.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "1c42956b-05ac-474d-9077-a6c8c1e6b8b8",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 17,
+                "Time": 2217
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "17ada16d-5967-4d36-8e82-fe1ff6e29edb",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Keith",
+            "Description": "Keith has requested a delivery of 3x Granddaddy Purple outside room #2 of the brown apartment block for $145.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "3x Granddaddy Purple, Outside brown apartment block room #2",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
+            "Payment": 145.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 0,
+                        "Quantity": 3
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 18,
+                "Time": 158
             }
         }
     ],
@@ -1675,7 +1935,7 @@
             "DataType": "DeaddropQuestData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "cb435761-2a0d-4ca4-a03b-b82aa476cc18",
+            "GUID": "59c3be52-1bae-4b25-a576-5d6836bbbd4b",
             "State": 1,
             "IsTracked": true,
             "Title": "Collect Dead Drop",
