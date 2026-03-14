@@ -16,7 +16,7 @@
             "DataType": "CleanerData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"CleanerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"ryan_pinkman\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Ryan\",\"LastName\":\"Pinkman\",\"IsMale\":true,\"AppearanceIndex\":3,\"Position\":{\"x\":-62.53178405761719,\"y\":-4.009995460510254,\"z\":143.6395721435547},\"Rotation\":{\"x\":0.0,\"y\":-0.25087153911590578,\"z\":0.0,\"w\":0.9680203795433044},\"GUID\":\"a103b638-7e42-4339-9065-2a13911f50a4\",\"PaidForToday\":true,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "BaseData": "{\"DataType\":\"CleanerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"ryan_pinkman\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Ryan\",\"LastName\":\"Pinkman\",\"IsMale\":true,\"AppearanceIndex\":3,\"Position\":{\"x\":-62.53178405761719,\"y\":-4.009995460510254,\"z\":143.6395721435547},\"Rotation\":{\"x\":0.0,\"y\":-0.25087153911590578,\"z\":0.0,\"w\":0.9680203795433044},\"GUID\":\"a103b638-7e42-4339-9065-2a13911f50a4\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
             "AdditionalDatas": [
                 {
                     "Name": "Inventory",
