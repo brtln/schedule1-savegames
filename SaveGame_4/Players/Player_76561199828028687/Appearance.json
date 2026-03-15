@@ -67,6 +67,9 @@
         "a": 0.0
     },
     "Tattoos": [
-        ""
+        "Avatar/Layers/Tattoos/Face/Face_Tribal",
+        "Avatar/Layers/Tattoos/Chest/Chest_Egg",
+        "Avatar/Layers/Tattoos/LeftArm/LeftArm_Heart",
+        "Avatar/Layers/Tattoos/RightArm/RightArm_Weed"
     ]
 }

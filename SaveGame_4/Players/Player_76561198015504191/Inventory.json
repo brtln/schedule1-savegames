@@ -3,12 +3,12 @@
         "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":23}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"lightweightskateboard\",\"Quantity\":1}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"blazer\",\"Quantity\":1,\"Color\":2}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"porkpiehat\",\"Quantity\":1,\"Color\":2}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"sourdiesel\",\"Quantity\":4,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"greencrack\",\"Quantity\":2,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":742.5}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":392.5}"
     ],
     "SlotFilters": [
         {

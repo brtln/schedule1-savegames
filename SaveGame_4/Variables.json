@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "312"
+            "Value": "326"
         },
         {
             "DataType": "VariableData",
@@ -57,21 +57,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "256"
+            "Value": "271"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagedProductCount",
-            "Value": "514"
+            "Value": "528"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "SownSeedsCount",
-            "Value": "25"
+            "Value": "29"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "105"
+            "Value": "115"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "ContainedTrashItems",
-            "Value": "399"
+            "Value": "444"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "TrashContainersBagged",
-            "Value": "25"
+            "Value": "26"
         },
         {
             "DataType": "VariableData",
@@ -141,21 +141,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Chemical_Operations_Started",
-            "Value": "3"
+            "Value": "4"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Chemical_Operations_Completed",
-            "Value": "2"
+            "Value": "3"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Oven_Cooks_Completed",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",

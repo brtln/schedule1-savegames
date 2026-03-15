@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.4.3f3",
     "Status": 1,
-    "HoursSinceStatusChange": 77,
+    "HoursSinceStatusChange": 109,
     "RegionInfluence": [
         {
             "Region": 0,
@@ -73,5 +73,5 @@
         },
         "Status": 0
     },
-    "HoursUntilNextDealRequest": 2
+    "HoursUntilNextDealRequest": 44
 }
