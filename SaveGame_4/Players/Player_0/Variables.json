@@ -8,14 +8,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Sleep_Count",
-            "Value": "16"
+            "Value": "17"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_Weed_Count",
-            "Value": "0"
+            "Value": "6"
         },
         {
             "DataType": "VariableData",
@@ -36,7 +36,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_GrowTent",
-            "Value": "2"
+            "Value": "4"
         },
         {
             "DataType": "VariableData",

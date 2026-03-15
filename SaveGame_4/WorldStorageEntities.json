@@ -75,84 +75,8 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 31,
-                "time": 1607
-            }
-        },
-        {
-            "DataType": "WorldStorageEntityData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "b47299ab-bf21-4427-98a1-267e0c215da5",
-            "Contents": {
-                "Items": [
-                    "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"pseudo\",\"Quantity\":6,\"Quality\":\"Standard\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
-                ],
-                "SlotFilters": [
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    }
-                ]
-            },
-            "LastContentChangeTime": {
-                "elapsedDays": 31,
-                "time": 2125
+                "elapsedDays": 32,
+                "time": 1340
             }
         }
     ]

@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($117,449 / $10,000)",
+                    "Name": "Earn $10,000 ($125,506 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1351,7 +1351,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "329acb06-4c99-49f6-a209-4577d7edcc43",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Deal for the Benzies Family",
             "Description": "Fulfill your ongoing obligation to the Benzies Cartel.",
@@ -1369,40 +1369,13 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Deliver 35x Meth to Hyland Manor",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "(Optional) Message Thomas to call off the truce",
-                    "State": 1
-                }
-            ]
-        },
-        {
-            "DataType": "DeaddropQuestData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "66acf8d0-91b5-4e7e-bc97-17fdabe7e3b2",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Collect Dead Drop",
-            "Description": "Collect the dead drop behind the motel office",
-            "Expires": false,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 0,
-                "Time": 0
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Behind motel office",
                     "State": 1
                 }
             ]
@@ -1413,135 +1386,54 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "f9a25cca-f85d-47e5-a311-0c1678fd659c",
+            "GUID": "2b6ec428-f1e1-4fec-8467-3a134a1a20a9",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 4x Granddaddy Purple under the west bridge for $210.",
+            "Title": "Deal for Joyce",
+            "Description": "Joyce has requested a delivery of 4x Green Crack behind the pawn shop for $210.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 32,
-                "Time": 600
+                "ElapsedDays": 33,
+                "Time": 1200
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, Under west bridge",
+                    "Name": "4x Green Crack, Behind pawn shop",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
+            "CustomerGUID": "e2104703-374e-4c62-92b2-9157cac91eca",
             "Payment": 210.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 4
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "f9bf06bd-e4f8-402c-b0a1-61830e83e01a",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 0,
-                "WindowEndTime": 600
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 31,
-                "Time": 2015
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "a359e613-ebb3-43c1-a33a-560c18f65f2f",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Kim",
-            "Description": "Kim has requested a delivery of 6x Green Crack on the west wharf for $315.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 31,
-                "Time": 2400
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "6x Green Crack, Western wharf",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "c1b11ce1-2d06-4b9a-a563-21bbd3dacfa8",
-            "Payment": 315.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "greencrack",
                         "Quality": 1,
-                        "Quantity": 6
+                        "Quantity": 4
                     }
                 ]
             },
-            "DeliveryLocationGUID": "98db7f2d-6dbd-4bd3-b2f7-6e42423d3a23",
+            "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1800,
-                "WindowEndTime": 2400
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 31,
-                "Time": 2155
+                "ElapsedDays": 33,
+                "Time": 930
             }
         }
     ],
-    "DeaddropQuests": [
-        {
-            "DataType": "DeaddropQuestData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "66acf8d0-91b5-4e7e-bc97-17fdabe7e3b2",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Collect Dead Drop",
-            "Description": "Collect the dead drop behind the motel office",
-            "Expires": false,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 0,
-                "Time": 0
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Behind motel office",
-                    "State": 1
-                }
-            ],
-            "DeaddropGUID": "d66b3fd6-7b7f-4e98-b000-6d5a197f7437"
-        }
-    ]
+    "DeaddropQuests": []
 }

@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "361"
+            "Value": "380"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "305"
+            "Value": "331"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagedProductCount",
-            "Value": "647"
+            "Value": "783"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "131"
+            "Value": "140"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "ContainedTrashItems",
-            "Value": "504"
+            "Value": "539"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "TrashContainersBagged",
-            "Value": "31"
+            "Value": "34"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Chemical_Operations_Completed",
-            "Value": "6"
+            "Value": "9"
         },
         {
             "DataType": "VariableData",
@@ -281,14 +281,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "acid_acquired",
-            "Value": "8"
+            "Value": "18"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "phosphorus_acquired",
-            "Value": "8"
+            "Value": "18"
         },
         {
             "DataType": "VariableData",
