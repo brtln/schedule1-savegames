@@ -8,14 +8,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Sleep_Count",
-            "Value": "16"
+            "Value": "5"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_Weed_Count",
-            "Value": "11"
+            "Value": "0"
         },
         {
             "DataType": "VariableData",
@@ -57,7 +57,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "BaseballBatPickedUp",
-            "Value": "True"
+            "Value": "False"
         },
         {
             "DataType": "VariableData",
@@ -99,14 +99,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagingStationMk2TutorialDone",
-            "Value": "True"
+            "Value": "False"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "StanGreeted",
-            "Value": "True"
+            "Value": "False"
         },
         {
             "DataType": "VariableData",
@@ -127,28 +127,28 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "RayGreeted",
-            "Value": "False"
-        },
-        {
-            "DataType": "VariableData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "Name": "JeremyGreeted",
             "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "Name": "MarcoGreeted",
+            "Name": "JeremyGreeted",
             "Value": "False"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
+            "Name": "MarcoGreeted",
+            "Value": "True"
+        },
+        {
+            "DataType": "VariableData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
             "Name": "TrashRecycled",
-            "Value": "9"
+            "Value": "38"
         },
         {
             "DataType": "VariableData",

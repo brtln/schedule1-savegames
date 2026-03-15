@@ -28,48 +28,48 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "sourdiesel",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "sourdiesel",
             "Output": "weddingass"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "granddaddypurple",
             "Output": "strawberrydurkle"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "granddaddypurple",
             "Output": "granddaddypurple"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "mouthwash",
+            "Product": "mouthwash",
+            "Mixer": "granddaddypurple",
             "Output": "lastink"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "gasoline",
+            "Product": "gasoline",
+            "Mixer": "granddaddypurple",
             "Output": "bananagrool"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "motoroil",
+            "Product": "motoroil",
+            "Mixer": "granddaddypurple",
             "Output": "biocheese"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "energydrink",
+            "Product": "energydrink",
+            "Mixer": "granddaddypurple",
             "Output": "strawberryshart"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "greencrack",
             "Output": "aspensmegma"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "megabean",
+            "Product": "megabean",
+            "Mixer": "greencrack",
             "Output": "pinkpuke"
         }
     ],
@@ -3977,6 +3977,102 @@
                 }
             ],
             "AmountPaid": 299.0
+        },
+        {
+            "ReceiptId": 391104427,
+            "CompletedBy": 0,
+            "CustomerId": "chloe_bowers",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 1543
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 4
+                }
+            ],
+            "AmountPaid": 273.0
+        },
+        {
+            "ReceiptId": -1139117951,
+            "CompletedBy": 0,
+            "CustomerId": "jerry_montero",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 1850
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 300.0
+        },
+        {
+            "ReceiptId": 450466662,
+            "CompletedBy": 0,
+            "CustomerId": "ludwig_meyer",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 1917
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 263.0
+        },
+        {
+            "ReceiptId": 457053994,
+            "CompletedBy": 0,
+            "CustomerId": "kathy_henderson",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 2009
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 6
+                }
+            ],
+            "AmountPaid": 379.5
+        },
+        {
+            "ReceiptId": -1368341280,
+            "CompletedBy": 0,
+            "CustomerId": "mick_lubbin",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 2230
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 324.0
+        },
+        {
+            "ReceiptId": 1115792977,
+            "CompletedBy": 0,
+            "CustomerId": "peggy_myers",
+            "CompletionTime": {
+                "elapsedDays": 20,
+                "time": 2259
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 6
+                }
+            ],
+            "AmountPaid": 445.5
         }
     ]
 }

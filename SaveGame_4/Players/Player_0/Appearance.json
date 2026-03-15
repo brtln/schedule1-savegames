@@ -1,48 +1,48 @@
 {
     "Gender": 0,
-    "Weight": 0.4000000059604645,
+    "Weight": 0.0,
     "SkinColor": {
-        "r": 0.7137255072593689,
-        "g": 0.5921568870544434,
-        "b": 0.48627451062202456,
+        "r": 0.8700000047683716,
+        "g": 0.7400000095367432,
+        "b": 0.6299999952316284,
         "a": 1.0
     },
-    "HairStyle": "Avatar/Hair/BuzzCut/BuzzCut",
+    "HairStyle": "Avatar/Hair/Spiky/Spiky",
     "HairColor": {
-        "r": 0.07547169923782349,
-        "g": 0.07547169923782349,
-        "b": 0.07547169923782349,
+        "r": 0.07000000029802323,
+        "g": 0.07000000029802323,
+        "b": 0.07000000029802323,
         "a": 1.0
     },
-    "Mouth": "Avatar/Layers/Face/Face_SlightSmile",
-    "FacialHair": "Avatar/Layers/Face/FacialHair_Goatee",
+    "Mouth": "Avatar/Layers/Face/Face_SmugPout",
+    "FacialHair": "Avatar/Layers/Face/FacialHair_Stubble",
     "FacialDetails": "",
     "FacialDetailsIntensity": 0.5,
     "EyeballColor": {
-        "r": 1.0,
-        "g": 1.0,
+        "r": 0.8999999761581421,
+        "g": 0.9900000095367432,
         "b": 1.0,
         "a": 1.0
     },
-    "UpperEyeLidRestingPosition": 1.0,
-    "LowerEyeLidRestingPosition": 1.0,
-    "PupilDilation": 0.13387097418308259,
-    "EyebrowScale": 1.7000000476837159,
+    "UpperEyeLidRestingPosition": 0.22093023359775544,
+    "LowerEyeLidRestingPosition": 0.18492116034030915,
+    "PupilDilation": 1.0,
+    "EyebrowScale": 1.406166434288025,
     "EyebrowThickness": 2.5,
     "EyebrowRestingHeight": 1.0,
-    "EyebrowRestingAngle": 10.0,
+    "EyebrowRestingAngle": -10.0,
     "Top": "Avatar/Layers/Top/T-Shirt",
     "TopColor": {
-        "r": 0.15094339847564698,
-        "g": 0.15094339847564698,
-        "b": 0.15094339847564698,
+        "r": 0.7099999785423279,
+        "g": 0.7099999785423279,
+        "b": 0.7099999785423279,
         "a": 1.0
     },
-    "Bottom": "Avatar/Layers/Bottom/CargoPants",
+    "Bottom": "Avatar/Layers/Bottom/Jeans",
     "BottomColor": {
-        "r": 0.15094339847564698,
-        "g": 0.15094339847564698,
-        "b": 0.15094339847564698,
+        "r": 0.17000000178813935,
+        "g": 0.20999999344348908,
+        "b": 0.4000000059604645,
         "a": 1.0
     },
     "Shoes": "Avatar/Accessories/Feet/Sneakers/Sneakers",
@@ -66,7 +66,5 @@
         "b": 0.0,
         "a": 0.0
     },
-    "Tattoos": [
-        ""
-    ]
+    "Tattoos": []
 }
