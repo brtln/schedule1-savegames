@@ -1379,6 +1379,33 @@
                     "State": 0
                 }
             ]
+        },
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "0e271ca3-bc2b-44c0-8be1-4bae2cc4b130",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the Crimson Canary",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "Behind Crimson Canary",
+                    "State": 1
+                }
+            ]
         }
     ],
     "Contracts": [
@@ -1693,7 +1720,88 @@
                 "ElapsedDays": 21,
                 "Time": 336
             }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "bfd93978-2d44-40e8-93cb-98985d405f81",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Austin",
+            "Description": "Austin has requested a delivery of 6x Granddaddy Purple behind taco ticklers for $315.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 21,
+                "Time": 1200
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "6x Granddaddy Purple, Behind Taco Ticklers",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "bfdeee5b-49a0-45b4-8e08-3e9badf5551d",
+            "Payment": 315.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 6
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 21,
+                "Time": 830
+            }
         }
     ],
-    "DeaddropQuests": []
+    "DeaddropQuests": [
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "0e271ca3-bc2b-44c0-8be1-4bae2cc4b130",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the Crimson Canary",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "Behind Crimson Canary",
+                    "State": 1
+                }
+            ],
+            "DeaddropGUID": "51e8f8ec-adcb-4800-8020-55cc24f9ba40"
+        }
+    ]
 }
