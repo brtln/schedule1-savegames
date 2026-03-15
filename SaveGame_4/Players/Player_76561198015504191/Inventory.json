@@ -4,11 +4,11 @@
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"lightweightskateboard\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"sourdiesel\",\"Quantity\":4,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"granddaddypurple\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"greencrack\",\"Quantity\":1,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"sourdiesel\",\"Quantity\":4,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"greencrack\",\"Quantity\":2,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":392.5}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":272.5}"
     ],
     "SlotFilters": [
         {
