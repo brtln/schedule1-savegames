@@ -7,82 +7,6 @@
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "16d32388-5e3b-4e12-9841-f04033c01c25",
-            "Contents": {
-                "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"floorlamp\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
-                ],
-                "SlotFilters": [
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    }
-                ]
-            },
-            "LastContentChangeTime": {
-                "elapsedDays": 28,
-                "time": 1248
-            }
-        },
-        {
-            "DataType": "WorldStorageEntityData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
             "GUID": "5eec8f1e-7a2e-4869-b490-f793b6975738",
             "Contents": {
                 "Items": [
@@ -151,8 +75,84 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 21,
-                "time": 1227
+                "elapsedDays": 31,
+                "time": 1607
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "b47299ab-bf21-4427-98a1-267e0c215da5",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"pseudo\",\"Quantity\":6,\"Quality\":\"Standard\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 31,
+                "time": 2125
             }
         }
     ]

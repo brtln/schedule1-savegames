@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Completed_Contracts_Count",
-            "Value": "343"
+            "Value": "361"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "HarvestedPlantCount",
-            "Value": "290"
+            "Value": "305"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "PackagedProductCount",
-            "Value": "588"
+            "Value": "647"
         },
         {
             "DataType": "VariableData",
@@ -92,7 +92,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Deaddrops_Ordered",
-            "Value": "4"
+            "Value": "5"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Benji_CompletedDealCount",
-            "Value": "123"
+            "Value": "131"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "ContainedTrashItems",
-            "Value": "492"
+            "Value": "504"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "TrashContainersBagged",
-            "Value": "30"
+            "Value": "31"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Chemical_Operations_Completed",
-            "Value": "4"
+            "Value": "6"
         },
         {
             "DataType": "VariableData",

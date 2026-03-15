@@ -1,14 +1,14 @@
 {
     "Items": [
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"bed\",\"Quantity\":1}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"largestoragerack\",\"Quantity\":1}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trimmers\",\"Quantity\":1}",
-        "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":9.553423881530762}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trimmers\",\"Quantity\":1}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"toilet\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"growtent\",\"Quantity\":2}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cruiser\",\"Quantity\":1}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":200.0}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":0.0}"
     ],
     "SlotFilters": [
         {

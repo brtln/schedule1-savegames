@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($110,727 / $10,000)",
+                    "Name": "Earn $10,000 ($117,449 / $10,000)",
                     "State": 2
                 }
             ]
@@ -586,7 +586,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "0de99478-27ef-4cc5-83a0-d6c62cb7001d",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Chemists",
             "Description": "Learn how to manage chemists.",
@@ -604,21 +604,21 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Use the management clipboard to assign the chemist to a locker",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Assign a station to the chemist",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Place cash in the chemist's locker",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -1351,7 +1351,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "329acb06-4c99-49f6-a209-4577d7edcc43",
-            "State": 2,
+            "State": 1,
             "IsTracked": true,
             "Title": "Deal for the Benzies Family",
             "Description": "Fulfill your ongoing obligation to the Benzies Cartel.",
@@ -1360,7 +1360,7 @@
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 33,
+                "ElapsedDays": 35,
                 "Time": 401
             },
             "Entries": [
@@ -1368,14 +1368,41 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Deliver 45x Sour Diesel to Hyland Manor",
-                    "State": 2
+                    "Name": "Deliver 35x Meth to Hyland Manor",
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "(Optional) Message Thomas to call off the truce",
+                    "State": 1
+                }
+            ]
+        },
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "66acf8d0-91b5-4e7e-bc97-17fdabe7e3b2",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the motel office",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "Behind motel office",
                     "State": 1
                 }
             ]
@@ -1386,17 +1413,17 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "458ebced-0c92-4dd5-a6f2-a67b8ab8b079",
+            "GUID": "f9a25cca-f85d-47e5-a311-0c1678fd659c",
             "State": 1,
             "IsTracked": false,
             "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 4x Granddaddy Purple outside room #2 of the brown apartment block for $210.",
+            "Description": "Trent has requested a delivery of 4x Granddaddy Purple under the west bridge for $210.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 31,
+                "ElapsedDays": 32,
                 "Time": 600
             },
             "Entries": [
@@ -1404,7 +1431,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, Outside brown apartment block room #2",
+                    "Name": "4x Granddaddy Purple, Under west bridge",
                     "State": 1
                 }
             ],
@@ -1419,7 +1446,7 @@
                     }
                 ]
             },
-            "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+            "DeliveryLocationGUID": "f9bf06bd-e4f8-402c-b0a1-61830e83e01a",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 0,
@@ -1430,7 +1457,7 @@
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 30,
+                "ElapsedDays": 31,
                 "Time": 2015
             }
         },
@@ -1438,17 +1465,17 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "27e94502-73a5-4934-8d4b-560cb39dfb8e",
+            "GUID": "a359e613-ebb3-43c1-a33a-560c18f65f2f",
             "State": 1,
             "IsTracked": false,
             "Title": "Deal for Kim",
-            "Description": "Kim has requested a delivery of 7x Granddaddy Purple behind the western Gas Mart for $365.",
+            "Description": "Kim has requested a delivery of 6x Green Crack on the west wharf for $315.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 30,
+                "ElapsedDays": 31,
                 "Time": 2400
             },
             "Entries": [
@@ -1456,22 +1483,22 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "7x Granddaddy Purple, Behind the western Gas Mart",
+                    "Name": "6x Green Crack, Western wharf",
                     "State": 1
                 }
             ],
             "CustomerGUID": "c1b11ce1-2d06-4b9a-a563-21bbd3dacfa8",
-            "Payment": 365.0,
+            "Payment": 315.0,
             "ProductList": {
                 "entries": [
                     {
-                        "ProductID": "granddaddypurple",
+                        "ProductID": "greencrack",
                         "Quality": 1,
-                        "Quantity": 7
+                        "Quantity": 6
                     }
                 ]
             },
-            "DeliveryLocationGUID": "aecd84fe-d0bf-41e7-859d-7c3cd1e99a40",
+            "DeliveryLocationGUID": "98db7f2d-6dbd-4bd3-b2f7-6e42423d3a23",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 1800,
@@ -1482,62 +1509,39 @@
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 30,
+                "ElapsedDays": 31,
                 "Time": 2155
             }
-        },
+        }
+    ],
+    "DeaddropQuests": [
         {
-            "DataType": "ContractData",
+            "DataType": "DeaddropQuestData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "8a088b30-4ea2-4209-99e5-1696d23db2f5",
+            "GUID": "66acf8d0-91b5-4e7e-bc97-17fdabe7e3b2",
             "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Jessi",
-            "Description": "Jessi has requested a delivery of 11x Green Crack behind the shipping containers near Sauerkraut Supreme for $605.",
-            "Expires": true,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the motel office",
+            "Expires": false,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 31,
-                "Time": 600
+                "ElapsedDays": 0,
+                "Time": 0
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "11x Green Crack, Shipping containers near Sauerkraut Supreme",
+                    "Name": "Behind motel office",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
-            "Payment": 605.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 0,
-                        "Quantity": 11
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "72acb3fb-6e9c-4a14-b52a-5b14f2abf970",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 0,
-                "WindowEndTime": 600
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 30,
-                "Time": 2300
-            }
+            "DeaddropGUID": "d66b3fd6-7b7f-4e98-b000-6d5a197f7437"
         }
-    ],
-    "DeaddropQuests": []
+    ]
 }

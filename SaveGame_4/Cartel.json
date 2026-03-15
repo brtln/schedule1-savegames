@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.4.3f3",
     "Status": 1,
-    "HoursSinceStatusChange": 141,
+    "HoursSinceStatusChange": 171,
     "RegionInfluence": [
         {
             "Region": 0,
@@ -64,12 +64,12 @@
         }
     ],
     "ActiveCartelDeal": {
-        "RequestedProductID": "",
-        "RequestedProductQuantity": 0,
-        "PaymentAmount": 0,
+        "RequestedProductID": "meth",
+        "RequestedProductQuantity": 35,
+        "PaymentAmount": 1590,
         "DueTime": {
-            "elapsedDays": 0,
-            "time": 0
+            "elapsedDays": 34,
+            "time": 401
         },
         "Status": 0
     },
