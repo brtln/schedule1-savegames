@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($67,834 / $10,000)",
+                    "Name": "Earn $10,000 ($80,120 / $10,000)",
                     "State": 2
                 }
             ]
@@ -386,8 +386,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "1a5e1096-bf76-4f61-8564-8217665dc943",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "Unfavourable Agreements",
             "Description": "You've received a message from someone offering you a 'deal'. Suspicious, but worth investigating. ",
             "Expires": false,
@@ -404,7 +404,7 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Read the message from the unknown contact",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -542,7 +542,7 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Purchase a lab oven from Oscar",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -570,14 +570,14 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Cook liquid meth at the chemistry station",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Bake the liquid meth with the lab oven",
-                    "State": 0
+                    "State": 1
                 }
             ]
         },
@@ -1386,17 +1386,17 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "12a19597-83f1-43b6-bfa4-9f278c00a0d1",
+            "GUID": "dcb69750-2713-45af-ac4d-a7def1f690a2",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Keith",
-            "Description": "Keith has requested a delivery of 4x Green Crack outside room #2 of the brown apartment block for $195.",
+            "Title": "Deal for Jessi",
+            "Description": "Jessi has requested a delivery of 10x Green Crack behind taco ticklers for $545.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 24,
+                "ElapsedDays": 26,
                 "Time": 600
             },
             "Entries": [
@@ -1404,22 +1404,22 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Green Crack, Outside brown apartment block room #2",
+                    "Name": "10x Green Crack, Behind Taco Ticklers",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
-            "Payment": 195.0,
+            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
+            "Payment": 545.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "greencrack",
                         "Quality": 0,
-                        "Quantity": 4
+                        "Quantity": 10
                     }
                 ]
             },
-            "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 0,
@@ -1430,8 +1430,8 @@
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 24,
-                "Time": 30
+                "ElapsedDays": 25,
+                "Time": 2300
             }
         }
     ],

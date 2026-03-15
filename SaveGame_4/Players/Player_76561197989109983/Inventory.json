@@ -1,14 +1,14 @@
 {
     "Items": [
+        "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"liquidmeth\",\"Quantity\":1,\"Quality\":\"Poor\"}",
+        "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"lowqualitypseudo\",\"Quantity\":7,\"Quality\":\"Poor\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"laboven\",\"Quantity\":1}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"greencrack\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"dryingrack\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"bed\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"growtent\",\"Quantity\":4}",
-        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[\"seedvial\",\"plantscrap\"],\"TrashQuantities\":[4,6]}}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trimmers\",\"Quantity\":1}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"potsprinkler\",\"Quantity\":4}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trashcan\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cruiser\",\"Quantity\":1}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":0.0}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":285.4000244140625}"
     ],
     "SlotFilters": [
         {
