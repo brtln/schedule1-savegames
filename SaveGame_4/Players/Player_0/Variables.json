@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Sleep_Count",
-            "Value": "5"
+            "Value": "6"
         },
         {
             "DataType": "VariableData",
@@ -29,7 +29,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "Inventory_WateringCan",
-            "Value": "0"
+            "Value": "1"
         },
         {
             "DataType": "VariableData",

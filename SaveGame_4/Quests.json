@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($49,312 / $10,000)",
+                    "Name": "Earn $10,000 ($56,980 / $10,000)",
                     "State": 2
                 }
             ]
@@ -503,8 +503,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "a63d0e02-84fa-4922-96a3-18cad4c05fc9",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "We Need To Cook",
             "Description": "You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.",
             "Expires": false,
@@ -521,49 +521,49 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Unlock the pseudo supplier in Westville (see contacts app for more info)",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Purchase a chemistry station from Oscar",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Purchase a lab oven from Oscar",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Purchase acid from Oscar",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Purchase phosphorus from Oscar",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Message Shirley about buying some pseudo",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -1379,429 +1379,8 @@
                     "State": 0
                 }
             ]
-        },
-        {
-            "DataType": "DeaddropQuestData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "0e271ca3-bc2b-44c0-8be1-4bae2cc4b130",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Collect Dead Drop",
-            "Description": "Collect the dead drop behind the Crimson Canary",
-            "Expires": false,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 0,
-                "Time": 0
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Behind Crimson Canary",
-                    "State": 1
-                }
-            ]
         }
     ],
-    "Contracts": [
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "3932d963-455c-48e9-ab64-1b2f771ef421",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Beth",
-            "Description": "Beth has requested a delivery of 4x Granddaddy Purple at the north waterfront for $210.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, North waterfront",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
-            "Payment": 210.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 4
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 20,
-                "Time": 1953
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "19add34d-191a-4406-a974-d4cdabaa705e",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Donna",
-            "Description": "Donna has requested a delivery of 4x Green Crack at the skatepark for $210.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "4x Green Crack, Skatepark",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
-            "Payment": 210.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 1,
-                        "Quantity": 4
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 20,
-                "Time": 2022
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "765a4c66-31db-42dd-9257-4c9798b9402b",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 3x Granddaddy Purple in the west construction site for $155.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "3x Granddaddy Purple, Construction site",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
-            "Payment": 155.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 3
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 20,
-                "Time": 2028
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "219481ae-298f-4163-b6b4-9cbcd3e91f32",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Keith",
-            "Description": "Keith has requested a delivery of 3x Green Crack behind the western Gas Mart for $145.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "3x Green Crack, Behind the western Gas Mart",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
-            "Payment": 145.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 0,
-                        "Quantity": 3
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "aecd84fe-d0bf-41e7-859d-7c3cd1e99a40",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 321
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "2c7d506b-dfb8-4a19-8096-bb930d10bd96",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Jessi",
-            "Description": "Jessi has requested a delivery of 9x Green Crack in front of the motel for $475.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "9x Green Crack, In front of motel",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
-            "Payment": 475.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 0,
-                        "Quantity": 9
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 329
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "27d67ca4-1b13-400a-82c4-eb4bb6b0762c",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Kim",
-            "Description": "Kim has requested a delivery of 6x Green Crack behind the western Gas Mart for $315.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "6x Green Crack, Behind the western Gas Mart",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "c1b11ce1-2d06-4b9a-a563-21bbd3dacfa8",
-            "Payment": 315.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 1,
-                        "Quantity": 6
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "aecd84fe-d0bf-41e7-859d-7c3cd1e99a40",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 336
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "bfd93978-2d44-40e8-93cb-98985d405f81",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Austin",
-            "Description": "Austin has requested a delivery of 6x Granddaddy Purple behind taco ticklers for $315.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "6x Granddaddy Purple, Behind Taco Ticklers",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "bfdeee5b-49a0-45b4-8e08-3e9badf5551d",
-            "Payment": 315.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 6
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 21,
-                "Time": 830
-            }
-        }
-    ],
-    "DeaddropQuests": [
-        {
-            "DataType": "DeaddropQuestData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "0e271ca3-bc2b-44c0-8be1-4bae2cc4b130",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Collect Dead Drop",
-            "Description": "Collect the dead drop behind the Crimson Canary",
-            "Expires": false,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 0,
-                "Time": 0
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Behind Crimson Canary",
-                    "State": 1
-                }
-            ],
-            "DeaddropGUID": "51e8f8ec-adcb-4800-8020-55cc24f9ba40"
-        }
-    ]
+    "Contracts": [],
+    "DeaddropQuests": []
 }
