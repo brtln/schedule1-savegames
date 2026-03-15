@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "StanGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "OscarGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "Name": "FixerGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",

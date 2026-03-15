@@ -1,14 +1,14 @@
 {
     "Items": [
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trashbag\",\"Quantity\":3}",
+        "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":9.553423881530762}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trimmers\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[\"seedvial\",\"plantscrap\"],\"TrashQuantities\":[4,6]}}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cruiser\",\"Quantity\":1}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":82.0}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":42.0}"
     ],
     "SlotFilters": [
         {
