@@ -2,8 +2,8 @@
     "DataType": "CartelData",
     "DataVersion": 0,
     "GameVersion": "0.4.3f3",
-    "Status": 0,
-    "HoursSinceStatusChange": 680,
+    "Status": 1,
+    "HoursSinceStatusChange": 77,
     "RegionInfluence": [
         {
             "Region": 0,
@@ -73,5 +73,5 @@
         },
         "Status": 0
     },
-    "HoursUntilNextDealRequest": 0
+    "HoursUntilNextDealRequest": 2
 }

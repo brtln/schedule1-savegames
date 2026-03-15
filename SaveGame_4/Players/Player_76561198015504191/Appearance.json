@@ -66,5 +66,10 @@
         "b": 0.0,
         "a": 0.0
     },
-    "Tattoos": []
+    "Tattoos": [
+        "Avatar/Layers/Tattoos/Face/Face_Teardrop",
+        "Avatar/Layers/Tattoos/LeftArm/LeftArm_Weed",
+        "Avatar/Layers/Tattoos/RightArm/RightArm_Alien",
+        ""
+    ]
 }

@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($80,120 / $10,000)",
+                    "Name": "Earn $10,000 ($99,543 / $10,000)",
                     "State": 2
                 }
             ]
@@ -386,7 +386,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "1a5e1096-bf76-4f61-8564-8217665dc943",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Unfavourable Agreements",
             "Description": "You've received a message from someone offering you a 'deal'. Suspicious, but worth investigating. ",
@@ -404,14 +404,14 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Read the message from the unknown contact",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Meet the stranger at the parking lot next to Taco Ticklers",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -503,7 +503,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "a63d0e02-84fa-4922-96a3-18cad4c05fc9",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "We Need To Cook",
             "Description": "You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.",
@@ -577,7 +577,7 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "Bake the liquid meth with the lab oven",
-                    "State": 1
+                    "State": 2
                 }
             ]
         },
@@ -1351,32 +1351,32 @@
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
             "GUID": "329acb06-4c99-49f6-a209-4577d7edcc43",
-            "State": 0,
-            "IsTracked": false,
+            "State": 2,
+            "IsTracked": true,
             "Title": "Deal for the Benzies Family",
             "Description": "Fulfill your ongoing obligation to the Benzies Cartel.",
-            "Expires": false,
+            "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 0,
-                "Time": 0
+                "ElapsedDays": 30,
+                "Time": 401
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Deliver X to Hyland Manor",
-                    "State": 0
+                    "Name": "Deliver 45x Sour Diesel to Hyland Manor",
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
                     "Name": "(Optional) Message Thomas to call off the truce",
-                    "State": 0
+                    "State": 1
                 }
             ]
         }
@@ -1386,52 +1386,104 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "dcb69750-2713-45af-ac4d-a7def1f690a2",
+            "GUID": "b8e506f6-20f6-4e87-9de0-d7eb4c523d8d",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Jessi",
-            "Description": "Jessi has requested a delivery of 10x Green Crack behind taco ticklers for $545.",
+            "Title": "Deal for Beth",
+            "Description": "Beth has requested a delivery of 4x Granddaddy Purple at the skatepark for $210.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 26,
-                "Time": 600
+                "ElapsedDays": 28,
+                "Time": 2400
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "10x Green Crack, Behind Taco Ticklers",
+                    "Name": "4x Granddaddy Purple, Skatepark",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
-            "Payment": 545.0,
+            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+            "Payment": 210.0,
             "ProductList": {
                 "entries": [
                     {
-                        "ProductID": "greencrack",
-                        "Quality": 0,
-                        "Quantity": 10
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 4
                     }
                 ]
             },
-            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
+            "DeliveryLocationGUID": "dfef5a22-ac4d-4081-954f-5c6b79a41d58",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 0,
-                "WindowEndTime": 600
+                "WindowStartTime": 1800,
+                "WindowEndTime": 2400
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 25,
-                "Time": 2300
+                "ElapsedDays": 28,
+                "Time": 1945
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "ad5fec1f-b77d-4381-b0cc-7a5f45d1e961",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Donna",
+            "Description": "Donna has requested a delivery of 4x Granddaddy Purple next to the barbershop for $210.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 28,
+                "Time": 2400
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Name": "4x Granddaddy Purple, Next to barbershop",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
+            "Payment": 210.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 4
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "40ffadb0-0dfb-408c-a940-f3dd81f04c89",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1800,
+                "WindowEndTime": 2400
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.3f3",
+                "ElapsedDays": 28,
+                "Time": 2000
             }
         }
     ],

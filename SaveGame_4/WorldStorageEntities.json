@@ -10,7 +10,7 @@
             "GUID": "16d32388-5e3b-4e12-9841-f04033c01c25",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":0.0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"floorlamp\",\"Quantity\":1}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
@@ -75,8 +75,8 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 14,
-                "time": 1537
+                "elapsedDays": 28,
+                "time": 1248
             }
         },
         {

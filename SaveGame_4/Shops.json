@@ -11,7 +11,7 @@
             "ItemStockQuantities": [
                 {
                     "String": "spraypaint",
-                    "Int": 16
+                    "Int": 18
                 }
             ]
         },
@@ -23,7 +23,7 @@
             "ItemStockQuantities": [
                 {
                     "String": "spraypaint",
-                    "Int": 16
+                    "Int": 18
                 }
             ]
         }
