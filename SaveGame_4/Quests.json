@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($66,823 / $10,000)",
+                    "Name": "Earn $10,000 ($67,834 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1386,11 +1386,11 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "GUID": "2864bfcb-c169-473e-8faa-1f3d5da08cf3",
+            "GUID": "12a19597-83f1-43b6-bfa4-9f278c00a0d1",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 4x Granddaddy Purple under the west bridge for $210.",
+            "Title": "Deal for Keith",
+            "Description": "Keith has requested a delivery of 4x Green Crack outside room #2 of the brown apartment block for $195.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
@@ -1404,74 +1404,22 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.3f3",
-                    "Name": "4x Granddaddy Purple, Under west bridge",
+                    "Name": "4x Green Crack, Outside brown apartment block room #2",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
-            "Payment": 210.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 4
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "f9bf06bd-e4f8-402c-b0a1-61830e83e01a",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 0,
-                "WindowEndTime": 600
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 23,
-                "Time": 2015
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "748c074e-b1b1-410a-9e98-0041a5cb3422",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Jessi",
-            "Description": "Jessi has requested a delivery of 9x Green Crack in front of the motel for $485.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 24,
-                "Time": 600
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "9x Green Crack, In front of motel",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
-            "Payment": 485.0,
+            "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
+            "Payment": 195.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "greencrack",
                         "Quality": 0,
-                        "Quantity": 9
+                        "Quantity": 4
                     }
                 ]
             },
-            "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
+            "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 0,
@@ -1482,8 +1430,8 @@
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.3f3",
-                "ElapsedDays": 23,
-                "Time": 2300
+                "ElapsedDays": 24,
+                "Time": 30
             }
         }
     ],

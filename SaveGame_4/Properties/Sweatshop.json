@@ -16,7 +16,7 @@
             "DataType": "BotanistData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"BotanistData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"timothy_brown\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Timothy\",\"LastName\":\"Brown\",\"IsMale\":true,\"AppearanceIndex\":5,\"Position\":{\"x\":-62.53142547607422,\"y\":-4.009995460510254,\"z\":143.63694763183595},\"Rotation\":{\"x\":0.0,\"y\":-0.25087153911590578,\"z\":0.0,\"w\":0.9680203795433044},\"GUID\":\"5fdb8330-2955-414e-b2aa-e197069b4abe\",\"PaidForToday\":true,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "BaseData": "{\"DataType\":\"BotanistData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"timothy_brown\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Timothy\",\"LastName\":\"Brown\",\"IsMale\":true,\"AppearanceIndex\":5,\"Position\":{\"x\":-62.53142547607422,\"y\":-4.009995460510254,\"z\":143.63694763183595},\"Rotation\":{\"x\":0.0,\"y\":-0.25087153911590578,\"z\":0.0,\"w\":0.9680203795433044},\"GUID\":\"5fdb8330-2955-414e-b2aa-e197069b4abe\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
@@ -271,7 +271,7 @@
             "DataType": "PotData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"fec131df-7429-4b6f-9626-bc7b158c52c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":4.038099765777588,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":0.3846299946308136,\"ActiveBuds\":[]}}",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"fec131df-7429-4b6f-9626-bc7b158c52c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":0.9096684455871582,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":1.0,\"ActiveBuds\":[11,6,1,4,3,7,15,14,10,13,9,12]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
@@ -297,7 +297,7 @@
             "DataType": "PotData",
             "DataVersion": 0,
             "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"dfac0204-241e-4122-b36d-d37f40cada2f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":3.2767934799194338,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":0.5109267234802246,\"ActiveBuds\":[]}}",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"dfac0204-241e-4122-b36d-d37f40cada2f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":0.14096641540527345,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":1.0,\"ActiveBuds\":[10,11,1,8,9,3,13,0,15,7,4,12]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
