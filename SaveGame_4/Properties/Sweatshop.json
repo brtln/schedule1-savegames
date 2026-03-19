@@ -1,11 +1,11 @@
 {
     "DataType": "PropertyData",
     "DataVersion": 0,
-    "GameVersion": "0.4.3f3",
+    "GameVersion": "0.4.4f10",
     "PropertyCode": "sweatshop",
     "IsOwned": true,
     "SwitchStates": [
-        true
+        false
     ],
     "ToggleableStates": [
         true,
@@ -15,16 +15,12 @@
         {
             "DataType": "BotanistData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"BotanistData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"timothy_brown\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Timothy\",\"LastName\":\"Brown\",\"IsMale\":true,\"AppearanceIndex\":5,\"Position\":{\"x\":-62.53740310668945,\"y\":-4.009995460510254,\"z\":143.6251983642578},\"Rotation\":{\"x\":0.0,\"y\":-0.25087153911590578,\"z\":0.0,\"w\":0.9680203795433044},\"GUID\":\"5fdb8330-2955-414e-b2aa-e197069b4abe\",\"PaidForToday\":true,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"BotanistData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"timothy_brown\",\"AssignedProperty\":\"sweatshop\",\"FirstName\":\"Timothy\",\"LastName\":\"Brown\",\"IsMale\":true,\"AppearanceIndex\":5,\"Position\":{\"x\":-62.53327941894531,\"y\":-4.009995460510254,\"z\":143.63092041015626},\"Rotation\":{\"x\":0.0,\"y\":-0.2449272871017456,\"z\":0.0,\"w\":0.9695414304733276},\"GUID\":\"5fdb8330-2955-414e-b2aa-e197069b4abe\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
             "AdditionalDatas": [
                 {
-                    "Name": "Relationship",
-                    "Contents": "{\n    \"DataType\": \"RelationshipData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"RelationDelta\": 1.25,\n    \"Unlocked\": false,\n    \"UnlockType\": 0\n}"
-                },
-                {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"BotanistConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Bed\": {\n        \"ObjectGUID\": \"fb4c6dce-9c3d-4b94-9a93-b1dd0fb26ced\"\n    },\n    \"Supplies\": {\n        \"ObjectGUID\": \"7092a203-9d61-42cf-8178-902b7b2665ae\"\n    },\n    \"Pots\": {\n        \"ObjectGUIDs\": [\n            \"50e8bf19-84b3-4682-b0c3-8659a07220d2\",\n            \"e91dea8a-ee42-494f-af41-cc6635fe627c\",\n            \"bd617a9a-e543-46d9-9d68-f1b8297bdb71\",\n            \"35485c69-750b-49d7-886b-3fc64639d28d\",\n            \"b975c0c1-3176-458c-be78-b76f6a95b210\",\n            \"aec438fd-2929-424e-87a2-fe9fe3e0991d\",\n            \"dfac0204-241e-4122-b36d-d37f40cada2f\",\n            \"fec131df-7429-4b6f-9626-bc7b158c52c0\"\n        ]\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"BotanistConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Bed\": {\n        \"ObjectGUID\": \"fb4c6dce-9c3d-4b94-9a93-b1dd0fb26ced\"\n    },\n    \"Supplies\": {\n        \"ObjectGUID\": \"7092a203-9d61-42cf-8178-902b7b2665ae\"\n    },\n    \"Pots\": {\n        \"ObjectGUIDs\": [\n            \"50e8bf19-84b3-4682-b0c3-8659a07220d2\",\n            \"e91dea8a-ee42-494f-af41-cc6635fe627c\",\n            \"bd617a9a-e543-46d9-9d68-f1b8297bdb71\",\n            \"35485c69-750b-49d7-886b-3fc64639d28d\",\n            \"b975c0c1-3176-458c-be78-b76f6a95b210\",\n            \"aec438fd-2929-424e-87a2-fe9fe3e0991d\",\n            \"dfac0204-241e-4122-b36d-d37f40cada2f\",\n            \"fec131df-7429-4b6f-9626-bc7b158c52c0\"\n        ]\n    }\n}"
                 }
             ]
         }
@@ -33,296 +29,296 @@
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"fb4c6dce-9c3d-4b94-9a93-b1dd0fb26ced\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"bed\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":0.0},\"Rotation\":0,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"CashData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"cash\\\",\\\"Quantity\\\":1,\\\"CashBalance\\\":254.800048828125}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"fb4c6dce-9c3d-4b94-9a93-b1dd0fb26ced\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"bed\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":0.0},\"Rotation\":0,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"CashData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"cash\\\",\\\"Quantity\\\":1,\\\"CashBalance\\\":4.800048828125}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"1708b576-73a1-4078-8fc3-a7d878fbddab\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":7.0},\"Rotation\":90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"growtent\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"potsprinkler\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"1708b576-73a1-4078-8fc3-a7d878fbddab\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":7.0},\"Rotation\":90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"growtent\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"potsprinkler\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"electrictrimmers\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "SurfaceItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"SurfaceItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"86a01481-4770-400b-9872-af47f470f86c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"wallclock\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":25,\"ParentSurfaceGUID\":\"6e553416-6d23-4f09-8b1e-1689b15bef96\",\"RelativePosition\":{\"x\":-0.5873880386352539,\"y\":2.500000238418579,\"z\":2.576265573501587},\"RelativeRotation\":{\"x\":0.7071070075035095,\"y\":0.0,\"z\":0.0,\"w\":0.7071065306663513}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"SurfaceItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"86a01481-4770-400b-9872-af47f470f86c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"wallclock\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":25,\"ParentSurfaceGUID\":\"6e553416-6d23-4f09-8b1e-1689b15bef96\",\"RelativePosition\":{\"x\":-0.5873880386352539,\"y\":2.500000238418579,\"z\":2.576265573501587},\"RelativeRotation\":{\"x\":0.7071070075035095,\"y\":0.0,\"z\":0.0,\"w\":0.7071065306663513}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"35485c69-750b-49d7-886b-3fc64639d28d\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":17.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"\",\"SoilLevel\":0.0,\"RemainingSoilUses\":0,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"35485c69-750b-49d7-886b-3fc64639d28d\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":17.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"\",\"SoilLevel\":0.0,\"RemainingSoilUses\":0,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"b975c0c1-3176-458c-be78-b76f6a95b210\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":15.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":0.0,\"AppliedAdditives\":[\"fertilizer\"],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"sourdieselseed\",\"GrowthProgress\":1.0,\"ActiveBuds\":[15,13,11,3,7,6,9,5]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b975c0c1-3176-458c-be78-b76f6a95b210\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":15.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":3.427093267440796,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.3901250660419464,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"32c9dcad-cb5c-4eec-9a90-041c9c4030a9\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":8.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"fryingpan\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"32c9dcad-cb5c-4eec-9a90-041c9c4030a9\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":0.0,\"y\":8.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"IntegerItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"revolvercylinder\\\",\\\"Quantity\\\":1,\\\"Value\\\":6}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"fryingpan\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"aec438fd-2929-424e-87a2-fe9fe3e0991d\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"\",\"SoilLevel\":0.0,\"RemainingSoilUses\":0,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"aec438fd-2929-424e-87a2-fe9fe3e0991d\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":3,\"WaterLevel\":3.406259775161743,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"e91dea8a-ee42-494f-af41-cc6635fe627c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":14.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"\",\"SoilLevel\":0.0,\"RemainingSoilUses\":0,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"e91dea8a-ee42-494f-af41-cc6635fe627c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":14.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":3,\"WaterLevel\":3.458343505859375,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.3876558840274811,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"bd617a9a-e543-46d9-9d68-f1b8297bdb71\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":16.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"\",\"SoilLevel\":0.0,\"RemainingSoilUses\":0,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"bd617a9a-e543-46d9-9d68-f1b8297bdb71\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":16.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":3,\"WaterLevel\":3.4479267597198488,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"07f3909e-3b26-49d4-a75d-6d9a86e8fce1\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":0.0,\"AppliedAdditives\":[\"fertilizer\"],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"sourdieselseed\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"07f3909e-3b26-49d4-a75d-6d9a86e8fce1\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":3.291675567626953,\"AppliedAdditives\":[\"fertilizer\"],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"sourdieselseed\",\"GrowthProgress\":1.0,\"ActiveBuds\":[3,11,4,5,10,9,8,15]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"f2f1f0be-8511-468b-876f-5726614a2b3a\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":9.0},\"Rotation\":0}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"f2f1f0be-8511-468b-876f-5726614a2b3a\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":9.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"cf6163ee-60ba-4636-b079-917c4397c6fa\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":12.0,\"y\":9.0},\"Rotation\":0}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"cf6163ee-60ba-4636-b079-917c4397c6fa\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":12.0,\"y\":9.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"fc231827-552b-46ea-885f-9314564e77d4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":14.0,\"y\":9.0},\"Rotation\":0}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"fc231827-552b-46ea-885f-9314564e77d4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":14.0,\"y\":9.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"530508a8-1b7c-4473-91aa-ff9b63fb01f2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":16.0,\"y\":9.0},\"Rotation\":0}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"530508a8-1b7c-4473-91aa-ff9b63fb01f2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":16.0,\"y\":9.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"ba3dc66f-40a2-4e04-b67c-c0be7b7c0729\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":17.0,\"y\":8.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"ba3dc66f-40a2-4e04-b67c-c0be7b7c0729\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":17.0,\"y\":8.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"7092a203-9d61-42cf-8178-902b7b2665ae\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":0.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"granddaddypurpleseed\\\",\\\"Quantity\\\":5}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"greencrackseed\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"longlifesoil\\\",\\\"Quantity\\\":9}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"electrictrimmers\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"WateringCanData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"wateringcan\\\",\\\"Quantity\\\":1,\\\"CurrentFillAmount\\\":6.447539806365967}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"7092a203-9d61-42cf-8178-902b7b2665ae\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":0.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"spraypaint\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"energydrink\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"baseballbat\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"graffiticleaner\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"electrictrimmers\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"WateringCanData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"wateringcan\\\",\\\"Quantity\\\":1,\\\"CurrentFillAmount\\\":6.447539806365967}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PackagingStationData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PackagingStationData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"1ff57420-26cc-4465-a810-d8391053b878\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"packagingstation\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":5.0,\"y\":0.0},\"Rotation\":0,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"jar\\\",\\\"Quantity\\\":5}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PackagingStationData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"1ff57420-26cc-4465-a810-d8391053b878\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"packagingstation\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":5.0,\"y\":0.0},\"Rotation\":0,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"baggie\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"granddaddypurple\\\",\\\"Quantity\\\":12,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"\\\"}\",\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"granddaddypurple\\\",\\\"Quantity\\\":8,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"baggie\\\"}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"b7407b46-47b3-4757-86a2-7d8c22cca2ed\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":15.0,\"y\":8.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b7407b46-47b3-4757-86a2-7d8c22cca2ed\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":15.0,\"y\":8.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":12.0,\"y\":6.0},\"Rotation\":0}",
-            "AdditionalDatas": []
-        },
-        {
-            "DataType": "ProceduralGridItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"b98e3e51-ebeb-416a-b6a8-3f7ef7d1ece4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":12.0,\"y\":6.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"d2f9379e-6633-40cc-bbed-9863de68f5c4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":3.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"granddaddypurple\\\",\\\"Quantity\\\":20,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"\\\"}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"baggie\\\",\\\"Quantity\\\":10}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"fertilizer\\\",\\\"Quantity\\\":2}\",\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"granddaddypurple\\\",\\\"Quantity\\\":16,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"\\\"}\",\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"greencrack\\\",\\\"Quantity\\\":20,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"\\\"}\",\"{\\\"DataType\\\":\\\"WeedData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"greencrack\\\",\\\"Quantity\\\":4,\\\"Quality\\\":\\\"Standard\\\",\\\"PackagingID\\\":\\\"\\\"}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"d2f9379e-6633-40cc-bbed-9863de68f5c4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":3.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"edbab8f2-1b73-4f33-afc1-98e626b93a84\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":7.0,\"y\":4.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"potsprinkler\\\",\\\"Quantity\\\":3}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"blazer\\\",\\\"Quantity\\\":1,\\\"Color\\\":2}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"porkpiehat\\\",\\\"Quantity\\\":1,\\\"Color\\\":2}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"edbab8f2-1b73-4f33-afc1-98e626b93a84\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"smallstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":7.0,\"y\":4.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"potsprinkler\\\",\\\"Quantity\\\":3}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"fertilizer\\\",\\\"Quantity\\\":2}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"blazer\\\",\\\"Quantity\\\":1,\\\"Color\\\":2}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"porkpiehat\\\",\\\"Quantity\\\":1,\\\"Color\\\":2}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"50e8bf19-84b3-4682-b0c3-8659a07220d2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"50e8bf19-84b3-4682-b0c3-8659a07220d2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":3.8388681411743166,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.5977493524551392,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"de65d342-b7c6-4bfb-83dd-bdecd86f3fa3\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":8.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"de65d342-b7c6-4bfb-83dd-bdecd86f3fa3\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":13.0,\"y\":8.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"fec131df-7429-4b6f-9626-bc7b158c52c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":3.969062328338623,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":0.26981475949287417,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"fec131df-7429-4b6f-9626-bc7b158c52c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":6.0},\"Rotation\":-90,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":3.8240766525268556,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.5999020934104919,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":10.0,\"y\":6.0},\"Rotation\":0}",
-            "AdditionalDatas": []
-        },
-        {
-            "DataType": "ProceduralGridItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"62ac41b1-4854-4ff5-a46e-cebf80c9622c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":10.0,\"y\":6.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"dfac0204-241e-4122-b36d-d37f40cada2f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":3.6257429122924806,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"greencrackseed\",\"GrowthProgress\":0.39324113726615908,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"dfac0204-241e-4122-b36d-d37f40cada2f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"moisturepreservingpot\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0,\"SoilID\":\"longlifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":2,\"WaterLevel\":3.7797021865844728,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.6034899950027466,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0}",
-            "AdditionalDatas": []
-        },
-        {
-            "DataType": "ProceduralGridItemData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"09f6b63e-1482-4565-8b3a-042d074c3b39\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"suspensionrack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":8.0,\"y\":6.0},\"Rotation\":0}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"b8e5ade4-6971-4483-9b3e-2789ad42fe74\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":8.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b8e5ade4-6971-4483-9b3e-2789ad42fe74\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":11.0,\"y\":8.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"8bd3c68a-bb9b-454c-8f81-bcd817f39aec\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":8.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"8bd3c68a-bb9b-454c-8f81-bcd817f39aec\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":9.0,\"y\":8.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "TrashContainerData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"TrashContainerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"e5636511-90f0-4006-83f9-e8ff861ec696\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"trashcan\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":6.0,\"y\":6.0},\"Rotation\":0,\"ContentData\":{\"TrashIDs\":[\"soilbag2\",\"fertilizer\"],\"TrashQuantities\":[1,7]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"TrashContainerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"e5636511-90f0-4006-83f9-e8ff861ec696\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"trashcan\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":6.0,\"y\":6.0},\"Rotation\":0,\"ContentData\":{\"TrashIDs\":[\"soilbag2\",\"fertilizer\"],\"TrashQuantities\":[1,7]}}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PotData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"582496f4-8deb-4eed-97e9-c2bd6d0fb7a3\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":7.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":0.0,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"SeedID\":\"\",\"GrowthProgress\":0.0,\"ActiveBuds\":[]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PotData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"582496f4-8deb-4eed-97e9-c2bd6d0fb7a3\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"growtent\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":7.0,\"y\":11.0},\"Rotation\":180,\"SoilID\":\"extralonglifesoil\",\"SoilLevel\":20.0,\"RemainingSoilUses\":1,\"WaterLevel\":3.3229258060455324,\"AppliedAdditives\":[],\"PlantData\":{\"DataType\":\"PlantData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"SeedID\":\"cocaseed\",\"GrowthProgress\":0.39629802107810976,\"ActiveBuds\":[]}}",
             "AdditionalDatas": [
                 {
                     "Name": "Configuration",
-                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.3f3\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
+                    "Contents": "{\n    \"DataType\": \"PotConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Name\": {\n        \"Value\": \"Pot\"\n    },\n    \"Seed\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive1\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive2\": {\n        \"ItemID\": \"\"\n    },\n    \"Additive3\": {\n        \"ItemID\": \"\"\n    },\n    \"Destination\": {\n        \"ObjectGUID\": \"d2f9379e-6633-40cc-bbed-9863de68f5c4\"\n    }\n}"
                 }
             ]
         },
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"185771cc-5c4a-4195-9266-e5cb21eaee4a\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":6.0,\"y\":9.0},\"Rotation\":0}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"185771cc-5c4a-4195-9266-e5cb21eaee4a\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"potsprinkler\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"46a785d3-e21e-4117-8366-ebddea345dee\",\"OriginCoordinate\":{\"x\":6.0,\"y\":9.0},\"Rotation\":0}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "ProceduralGridItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b98e3e51-ebeb-416a-b6a8-3f7ef7d1ece4\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"8311840c-f7f9-41d5-92e4-0f815823bfb6\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "ProceduralGridItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"62ac41b1-4854-4ff5-a46e-cebf80c9622c\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"7796026b-196a-4ece-b563-775f85cdfed6\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "ProceduralGridItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"ProceduralGridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"09f6b63e-1482-4565-8b3a-042d074c3b39\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"fullspectrumgrowlight\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":50,\"Rotation\":0,\"FootprintMatches\":[{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":2,\"FootprintCoordinate\":{\"x\":0.0,\"y\":0.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":1,\"FootprintCoordinate\":{\"x\":0.0,\"y\":1.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":3,\"FootprintCoordinate\":{\"x\":1.0,\"y\":0.0}},{\"TileOwnerGUID\":\"b85c9797-da17-4f84-a72d-3d5ca15a92c0\",\"TileIndex\":0,\"FootprintCoordinate\":{\"x\":1.0,\"y\":1.0}}]}",
             "AdditionalDatas": []
         }
     ]

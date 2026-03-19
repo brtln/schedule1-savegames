@@ -1,15 +1,15 @@
 {
     "Items": [
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"dressshoes\",\"Quantity\":1,\"Color\":0}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"jeans\",\"Quantity\":1,\"Color\":4}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"belt\",\"Quantity\":1,\"Color\":0}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"buttonup\",\"Quantity\":1,\"Color\":4}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"vest\",\"Quantity\":1,\"Color\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"legendsunglasses\",\"Quantity\":1,\"Color\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"dressshoes\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jeans\",\"Quantity\":1,\"Color\":4}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"belt\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"buttonup\",\"Quantity\":1,\"Color\":4}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"vest\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"legendsunglasses\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"trashcrown\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
     ],
     "SlotFilters": [
         {

@@ -1,12 +1,12 @@
 {
     "DataType": "QuestManagerData",
     "DataVersion": 0,
-    "GameVersion": "0.4.3f3",
+    "GameVersion": "0.4.4f10",
     "Quests": [
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "1a719086-5f4b-4495-8153-852994bc65d3",
             "State": 0,
             "IsTracked": false,
@@ -16,7 +16,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -24,70 +24,70 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a grain bag from Fungal Phil",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a spore syringe from Fungal Phil",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a mushroom spawn station from Oscar",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the mushroom spawn station to inocculate a grain bag",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a mushroom bed from Oscar",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase mushroom substrate from Fungal Phil",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Mix the shroom spawn into a mushroom bed",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase an AC unit from a hardware store",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the AC unit to cool the mushroom bed",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Harvest the shrooms once fully grown",
                     "State": 0
                 }
@@ -96,7 +96,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "004e1462-b447-4c46-a8b8-74a4f48ff6a9",
             "State": 2,
             "IsTracked": true,
@@ -106,7 +106,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -114,7 +114,7 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Deposit cash at an ATM",
                     "State": 2
                 }
@@ -123,7 +123,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "c7c962c4-e486-4161-95e2-49ba01f49e49",
             "State": 2,
             "IsTracked": true,
@@ -133,7 +133,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -141,35 +141,35 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the management clipboard to assign the botanist to a locker",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign a supplies source to the botanist",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign a pot or grow tent to the botanist",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Set the pot/grow tent destination",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place cash in the botanist's locker",
                     "State": 2
                 }
@@ -178,7 +178,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "1aec12d5-4d6d-46b5-bab8-c12bafe91390",
             "State": 2,
             "IsTracked": true,
@@ -188,7 +188,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -196,63 +196,63 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Open your phone and read your messages",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to 'U.N.' at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the stash near the fountain",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the stash near the canal",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the stash behind the supermarket",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Head back to the RV",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Investigate the explosion",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Read the note",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 }
@@ -261,7 +261,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "8e9bf6c1-9c89-4abe-9ac2-f01602e03404",
             "State": 2,
             "IsTracked": true,
@@ -271,7 +271,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -279,21 +279,21 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the management clipboard to assign the handler to a locker",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign a packaging station to the handler",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place cash in the handler's locker",
                     "State": 2
                 }
@@ -302,7 +302,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "e5314966-09b3-42a0-9757-cb1a09acf999",
             "State": 2,
             "IsTracked": true,
@@ -312,7 +312,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -320,8 +320,8 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Earn $10,000 ($125,506 / $10,000)",
+                    "GameVersion": "0.4.4f10",
+                    "Name": "Earn $10,000 ($231,690 / $10,000)",
                     "State": 2
                 }
             ]
@@ -329,7 +329,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "9ada39cf-8ad7-48b7-ad56-b81847650e4d",
             "State": 2,
             "IsTracked": true,
@@ -339,7 +339,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -347,35 +347,35 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Save $800 for a new property",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Mrs. Ming at the Chinese restaurant",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase the room above the Chinese Restaurant",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Move the grow tents and packaging station to the new room",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Unlock 10 customers (0/10)",
                     "State": 2
                 }
@@ -384,7 +384,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "1a5e1096-bf76-4f61-8564-8217665dc943",
             "State": 2,
             "IsTracked": true,
@@ -394,7 +394,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -402,14 +402,14 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Read the message from the unknown contact",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Meet the stranger at the parking lot next to Taco Ticklers",
                     "State": 2
                 }
@@ -418,7 +418,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "04b6e82d-fb51-4caa-baf1-4724e16cf155",
             "State": 2,
             "IsTracked": true,
@@ -428,7 +428,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -436,63 +436,63 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Unlock Chloe, Ludwig, or Beth as customers",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Reach 'friendly' relationship status with Chloe, Ludwig, or Beth",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Benji Coleman in Motel Room #2",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Recruit Benji Coleman as a dealer",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Provide Benji with at least 10x Weed",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign at least 3 customers to Benji",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for Benji to complete a deal",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the cash from Benji",
                     "State": 2
                 }
@@ -501,7 +501,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "a63d0e02-84fa-4922-96a3-18cad4c05fc9",
             "State": 2,
             "IsTracked": true,
@@ -511,7 +511,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -519,63 +519,63 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Unlock the pseudo supplier in Westville (see contacts app for more info)",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a chemistry station from Oscar",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a lab oven from Oscar",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase acid from Oscar",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase phosphorus from Oscar",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Message Shirley about buying some pseudo",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Cook liquid meth at the chemistry station",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Bake the liquid meth with the lab oven",
                     "State": 2
                 }
@@ -584,7 +584,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "0de99478-27ef-4cc5-83a0-d6c62cb7001d",
             "State": 2,
             "IsTracked": true,
@@ -594,7 +594,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -602,21 +602,21 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the management clipboard to assign the chemist to a locker",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign a station to the chemist",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place cash in the chemist's locker",
                     "State": 2
                 }
@@ -625,7 +625,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "7187a66d-0359-4caa-93bc-8dcae901e679",
             "State": 2,
             "IsTracked": true,
@@ -635,7 +635,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -643,70 +643,70 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a mixing station from the hardware store",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place the mixing station",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Go to Gas-Mart",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase at least one mixing ingredient",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Start a new mix at the mixing station",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for the mix to complete",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the new product",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Mix a strain worth at least $60",
                     "State": 2
                 }
@@ -715,7 +715,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "9b192cde-b87f-4ee7-8f43-b8e3775a04c7",
             "State": 2,
             "IsTracked": true,
@@ -725,7 +725,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -733,35 +733,35 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Gain access to the warehouse",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the merchant",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the arms dealer",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the fixer",
                     "State": 2
                 }
@@ -770,7 +770,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "85bc22f9-c4c9-438c-b38d-e046e84330b6",
             "State": 2,
             "IsTracked": true,
@@ -780,7 +780,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -788,21 +788,21 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the management clipboard to assign the cleaner to a locker",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Assign a trash can to the cleaner",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place cash in the cleaner's locker",
                     "State": 2
                 }
@@ -811,7 +811,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "a1c3b3d6-e9ec-4153-9ee4-da7e93349f3b",
             "State": 2,
             "IsTracked": true,
@@ -821,7 +821,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -829,70 +829,70 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for a message from a customer",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Schedule your first deal",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Complete your first deal",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy and place another grow tent",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Complete 3 deals (0/3)",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Open the contacts app",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Select a friend of an unlocked customer in your contacts app",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Open the map app to see your potential customers",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Offer a free sample to a potential customer",
                     "State": 2
                 }
@@ -901,7 +901,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "62bc41c0-a130-4b48-b7c9-08574b6dc331",
             "State": 2,
             "IsTracked": true,
@@ -911,7 +911,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -919,21 +919,21 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the manager in the motel office",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Rent a motel room",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Check out your motel room",
                     "State": 2
                 }
@@ -942,7 +942,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "4c3a4a78-5697-4b68-a8fd-8bfbe7ee57e0",
             "State": 2,
             "IsTracked": true,
@@ -952,7 +952,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -960,28 +960,28 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place the soil bag and seed vial in the motel room trash can",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy a trash bag from the hardware store",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Bag the contents of the trash can",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Dispose of the trash bag",
                     "State": 2
                 }
@@ -990,7 +990,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "57540e44-dcb9-49d1-99e1-8c35783bbdc0",
             "State": 0,
             "IsTracked": false,
@@ -1000,7 +1000,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -1008,70 +1008,70 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Billy at the chemical plant about buying explosives",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Trade Billy 20x cocaine in return for RDX",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Get Sam to dig access to the tunnel under Hyland Manor",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for Sam to dig access to the tunnel",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Stan about turning the RDX into a bomb",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Kill the thief who keeps stealing Stan's supplies. He is often seen at the docks at night.",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Get Stan to turn the RDX into a bomb",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Plant the bomb under Hyland Manor",
                     "State": 0
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for the bomb to detonate",
                     "State": 0
                 }
@@ -1080,17 +1080,17 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "a3f6ef26-47eb-462a-ad58-8767d45a1737",
-            "State": 0,
-            "IsTracked": false,
+            "State": 2,
+            "IsTracked": true,
             "Title": "Clean Cash",
             "Description": "You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.",
             "Expires": false,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -1098,44 +1098,44 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Purchase a business at Ray's Realty",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Go to your new business",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Use the laundering station to start a new laundering operation",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for the laundering operation to complete",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "830e2efe-b98f-495d-a44e-c17c7c94f517",
             "State": 2,
             "IsTracked": true,
@@ -1145,7 +1145,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -1153,21 +1153,21 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the real estate agent",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the dealership manager",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to the mechanic",
                     "State": 2
                 }
@@ -1176,7 +1176,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "948de7e1-6b87-49ba-bf84-4e56217817e3",
             "State": 2,
             "IsTracked": true,
@@ -1186,7 +1186,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -1194,28 +1194,28 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 1x plant trimmers",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 1x packaging station",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 10x baggies",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place the packaging station in the motel room",
                     "State": 2
                 }
@@ -1224,7 +1224,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "8c44ad67-83a8-45c5-aeb1-8fed14cf3d71",
             "State": 2,
             "IsTracked": true,
@@ -1234,7 +1234,7 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
+                "GameVersion": "0.4.4f10",
                 "ElapsedDays": 0,
                 "Time": 0
             },
@@ -1242,105 +1242,105 @@
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Go to the hardware store",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 1x grow tent",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 1x soil",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Buy 1x watering can",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Head back to the motel room",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Place the grow tent and fill it with soil",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Talk to Uncle Nelson at a payphone",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Order 1x OG Kush Seed from Albert Hoover",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Wait for the dead drop",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Collect the dead drop",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Sow a weed seed",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Water the weed plant",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Harvest the weed plant once fully grown",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "Package at least 3x weed",
                     "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "List OG Kush for sale in the product manager app",
                     "State": 2
                 }
@@ -1349,7 +1349,7 @@
         {
             "DataType": "QuestData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
+            "GameVersion": "0.4.4f10",
             "GUID": "329acb06-4c99-49f6-a209-4577d7edcc43",
             "State": 2,
             "IsTracked": true,
@@ -1359,24 +1359,24 @@
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 35,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 38,
                 "Time": 401
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "Deliver 35x Meth to Hyland Manor",
-                    "State": 2
+                    "GameVersion": "0.4.4f10",
+                    "Name": "Deliver 50x Green Crack to Hyland Manor",
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
+                    "GameVersion": "0.4.4f10",
                     "Name": "(Optional) Message Thomas to call off the truce",
-                    "State": 1
+                    "State": 2
                 }
             ]
         }
@@ -1385,53 +1385,157 @@
         {
             "DataType": "ContractData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "GUID": "2b6ec428-f1e1-4fec-8467-3a134a1a20a9",
+            "GameVersion": "0.4.4f10",
+            "GUID": "9bc2a8f0-1919-4c9f-8290-db8262fa45ff",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Joyce",
-            "Description": "Joyce has requested a delivery of 4x Green Crack behind the pawn shop for $210.",
+            "Title": "Deal for Elizabeth",
+            "Description": "Elizabeth has requested a delivery of 15x Green Crack on the wharf near the french restaurant for $725.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 33,
-                "Time": 1200
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1800
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
-                    "GameVersion": "0.4.3f3",
-                    "Name": "4x Green Crack, Behind pawn shop",
+                    "GameVersion": "0.4.4f10",
+                    "Name": "15x Green Crack, Wharf near french restaurant",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "e2104703-374e-4c62-92b2-9157cac91eca",
-            "Payment": 210.0,
+            "CustomerGUID": "8c79336d-8047-41b7-971d-5cf6f2599946",
+            "Payment": 725.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "greencrack",
-                        "Quality": 1,
-                        "Quantity": 4
+                        "Quality": 2,
+                        "Quantity": 15
                     }
                 ]
             },
-            "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
+            "DeliveryLocationGUID": "44a13b39-9939-4004-87b6-d596e726ef3b",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
-                "GameVersion": "0.4.3f3",
-                "ElapsedDays": 33,
-                "Time": 930
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1020
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "08242f06-bab6-4f74-b2db-1c7353de8803",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Kyle",
+            "Description": "Kyle has requested a delivery of 9x Granddaddy Purple at the north waterfront for $470.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "9x Granddaddy Purple, North waterfront",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "e8e4e974-86b8-49cd-8252-a43b76f14708",
+            "Payment": 470.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 9
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "7b391235-04fc-49e1-945b-e6a27b0b6596",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1030
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "6c19c442-00b9-4d0b-be7e-2cfaf91a3534",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Peter",
+            "Description": "Peter has requested a delivery of 3x Mega Smegma at the basketball court for $335.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1800
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "3x Mega Smegma, Basketball court",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "7b74bf42-5b10-4e89-936e-c36b307bd775",
+            "Payment": 335.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "megasmegma",
+                        "Quality": 1,
+                        "Quantity": 3
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "084e7d19-60a4-46ef-a64c-bb0b2d8a7260",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 48,
+                "Time": 1050
             }
         }
     ],

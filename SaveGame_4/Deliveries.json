@@ -1,7 +1,32 @@
 {
     "DataType": "DeliveriesData",
     "DataVersion": 0,
-    "GameVersion": "0.4.3f3",
+    "GameVersion": "0.4.4f10",
     "ActiveDeliveries": [],
-    "DeliveryVehicles": []
+    "DeliveryVehicles": [],
+    "DeliveryHistory": [
+        {
+            "StoreName": "Oscar's Store",
+            "DestinationCode": "bungalow",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "acid",
+                    "Int": 20
+                },
+                {
+                    "String": "extralonglifesoil",
+                    "Int": 10
+                },
+                {
+                    "String": "jar",
+                    "Int": 40
+                },
+                {
+                    "String": "phosphorus",
+                    "Int": 20
+                }
+            ]
+        }
+    ]
 }

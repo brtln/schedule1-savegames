@@ -1,7 +1,7 @@
 {
     "DataType": "BusinessData",
     "DataVersion": 0,
-    "GameVersion": "0.4.3f3",
+    "GameVersion": "0.4.4f10",
     "PropertyCode": "laundromat",
     "IsOwned": true,
     "SwitchStates": [],
@@ -11,17 +11,25 @@
         {
             "DataType": "GridItemData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"8ffd1dac-dba6-4ab6-aa3c-94e7caf1ae37\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"launderingstation\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"f83a9d8f-a82d-4c91-8c09-12e0a41aefa7\",\"OriginCoordinate\":{\"x\":3.0,\"y\":10.0},\"Rotation\":180}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"GridItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"8ffd1dac-dba6-4ab6-aa3c-94e7caf1ae37\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"launderingstation\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"f83a9d8f-a82d-4c91-8c09-12e0a41aefa7\",\"OriginCoordinate\":{\"x\":3.0,\"y\":10.0},\"Rotation\":180}",
             "AdditionalDatas": []
         },
         {
             "DataType": "PlaceableStorageData",
             "DataVersion": 0,
-            "GameVersion": "0.4.3f3",
-            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"GUID\":\"c42d8495-79b7-4dd6-9bae-715e5197821f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.3f3\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"f83a9d8f-a82d-4c91-8c09-12e0a41aefa7\",\"OriginCoordinate\":{\"x\":0.0,\"y\":2.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"cargopants\\\",\\\"Quantity\\\":1,\\\"Color\\\":4}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"tshirt\\\",\\\"Quantity\\\":1,\\\"Color\\\":4}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"sneakers\\\",\\\"Quantity\\\":1,\\\"Color\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"spraypaint\\\",\\\"Quantity\\\":3}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.3f3\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"c42d8495-79b7-4dd6-9bae-715e5197821f\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"mediumstoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"f83a9d8f-a82d-4c91-8c09-12e0a41aefa7\",\"OriginCoordinate\":{\"x\":0.0,\"y\":2.0},\"Rotation\":-90,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"cargopants\\\",\\\"Quantity\\\":1,\\\"Color\\\":4}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"tshirt\\\",\\\"Quantity\\\":1,\\\"Color\\\":4}\",\"{\\\"DataType\\\":\\\"ClothingData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"sneakers\\\",\\\"Quantity\\\":1,\\\"Color\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"spraypaint\\\",\\\"Quantity\\\":3}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
             "AdditionalDatas": []
         }
     ],
-    "LaunderingOperations": []
+    "LaunderingOperations": [
+        {
+            "DataType": "LaunderOperationData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Amount": 2000.0,
+            "MinutesSinceStarted": 32
+        }
+    ]
 }
