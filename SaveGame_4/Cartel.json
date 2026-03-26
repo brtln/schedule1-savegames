@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.4.4f10",
     "Status": 2,
-    "HoursSinceStatusChange": 419,
+    "HoursSinceStatusChange": 447,
     "RegionInfluence": [
         {
             "Region": 0,
@@ -30,7 +30,7 @@
             "Influence": 0.8999999761581421
         }
     ],
-    "HoursUntilNextGlobalActivity": 6,
+    "HoursUntilNextGlobalActivity": 20,
     "RegionalActivityData": [
         {
             "Region": 0,
@@ -54,8 +54,8 @@
         },
         {
             "Region": 4,
-            "CurrentActivityIndex": 2,
-            "HoursUntilNextActivity": 8
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 13
         },
         {
             "Region": 5,

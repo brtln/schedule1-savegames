@@ -478,7 +478,7 @@
             "intValues": [
                 {
                     "key": "daysUntilRepair",
-                    "value": 0
+                    "value": -1
                 }
             ],
             "stringValues": []
