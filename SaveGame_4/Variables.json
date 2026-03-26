@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Completed_Contracts_Count",
-            "Value": "825"
+            "Value": "860"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "HarvestedPlantCount",
-            "Value": "637"
+            "Value": "662"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PackagedProductCount",
-            "Value": "1700"
+            "Value": "1733"
         },
         {
             "DataType": "VariableData",
@@ -85,7 +85,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "SuccessfulSampleCount",
-            "Value": "37"
+            "Value": "40"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Benji_CompletedDealCount",
-            "Value": "305"
+            "Value": "315"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ContainedTrashItems",
-            "Value": "1209"
+            "Value": "1270"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "TrashContainersBagged",
-            "Value": "93"
+            "Value": "98"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Chemical_Operations_Completed",
-            "Value": "43"
+            "Value": "46"
         },
         {
             "DataType": "VariableData",
@@ -204,7 +204,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "LaunderingOperationsCompleted",
-            "Value": "13"
+            "Value": "15"
         },
         {
             "DataType": "VariableData",

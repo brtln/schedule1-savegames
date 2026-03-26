@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.4.4f10",
     "Status": 2,
-    "HoursSinceStatusChange": 611,
+    "HoursSinceStatusChange": 634,
     "RegionInfluence": [
         {
             "Region": 0,
@@ -23,14 +23,14 @@
         },
         {
             "Region": 4,
-            "Influence": 1.0
+            "Influence": 0.10000011324882508
         },
         {
             "Region": 5,
             "Influence": 0.7499999403953552
         }
     ],
-    "HoursUntilNextGlobalActivity": 3,
+    "HoursUntilNextGlobalActivity": 17,
     "RegionalActivityData": [
         {
             "Region": 0,
@@ -54,13 +54,13 @@
         },
         {
             "Region": 4,
-            "CurrentActivityIndex": 2,
-            "HoursUntilNextActivity": 16
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 20
         },
         {
             "Region": 5,
             "CurrentActivityIndex": -1,
-            "HoursUntilNextActivity": 29
+            "HoursUntilNextActivity": 18
         }
     ],
     "ActiveCartelDeal": {

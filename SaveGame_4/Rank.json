@@ -4,13 +4,14 @@
     "GameVersion": "0.4.4f10",
     "Rank": 7,
     "Tier": 1,
-    "XP": 57,
-    "TotalXP": 28932,
+    "XP": 937,
+    "TotalXP": 29812,
     "UnlockedRegions": [
         0,
         1,
         2,
         3,
-        4
+        4,
+        5
     ]
 }
