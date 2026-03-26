@@ -27,6 +27,21 @@
                     "Int": 20
                 }
             ]
+        },
+        {
+            "StoreName": "Handy Hank's Hardware",
+            "DestinationCode": "bungalow",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "extralonglifesoil",
+                    "Int": 20
+                },
+                {
+                    "String": "fertilizer",
+                    "Int": 10
+                }
+            ]
         }
     ]
 }

@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Completed_Contracts_Count",
-            "Value": "659"
+            "Value": "685"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "HarvestedPlantCount",
-            "Value": "541"
+            "Value": "562"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PackagedProductCount",
-            "Value": "1458"
+            "Value": "1483"
         },
         {
             "DataType": "VariableData",
@@ -85,14 +85,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "SuccessfulSampleCount",
-            "Value": "30"
+            "Value": "32"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Deaddrops_Ordered",
-            "Value": "6"
+            "Value": "7"
         },
         {
             "DataType": "VariableData",
@@ -106,35 +106,35 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Benji_CompletedDealCount",
-            "Value": "251"
+            "Value": "260"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ContainedTrashItems",
-            "Value": "980"
+            "Value": "1047"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "TrashContainersBagged",
-            "Value": "73"
+            "Value": "79"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Started",
-            "Value": "36"
+            "Value": "38"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Completed",
-            "Value": "69"
+            "Value": "71"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Chemical_Operations_Completed",
-            "Value": "30"
+            "Value": "31"
         },
         {
             "DataType": "VariableData",
@@ -162,7 +162,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Collected",
-            "Value": "70"
+            "Value": "72"
         },
         {
             "DataType": "VariableData",
@@ -218,7 +218,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ShirleyDeaddropOrders",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",

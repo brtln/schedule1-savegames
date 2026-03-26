@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
-                    "Name": "Earn $10,000 ($252,253 / $10,000)",
+                    "Name": "Earn $10,000 ($264,607 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1386,156 +1386,52 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
-            "GUID": "b12143a5-900d-481c-af53-4f55833c953e",
+            "GUID": "dd4cc705-d0fe-4790-a735-d460032eae4c",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Donna",
-            "Description": "Donna has requested a delivery of 5x Green Crack behind Sauerkraut Supreme pizzeria for $260.",
+            "Title": "Deal for Philip",
+            "Description": "Philip has requested a delivery of 12x Granddaddy Purple behind the diner for $625.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2400
+                "ElapsedDays": 51,
+                "Time": 600
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
-                    "Name": "5x Green Crack, Behind Sauerkraut Supreme Pizzeria",
+                    "Name": "12x Granddaddy Purple, Behind diner",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
-            "Payment": 260.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 1,
-                        "Quantity": 5
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 1800,
-                "WindowEndTime": 2400
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2000
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
-            "GUID": "7659127f-23c5-4c99-a9e0-7777efcc5213",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 6x Granddaddy Purple behind the pawn shop for $315.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2400
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.4f10",
-                    "Name": "6x Granddaddy Purple, Behind pawn shop",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
-            "Payment": 315.0,
+            "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
+            "Payment": 625.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "granddaddypurple",
-                        "Quality": 1,
-                        "Quantity": 6
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 1800,
-                "WindowEndTime": 2400
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2015
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
-            "GUID": "dc1759d6-9f76-449f-86f1-1e29226444ca",
-            "State": 1,
-            "IsTracked": false,
-            "Title": "Deal for Anna",
-            "Description": "Anna has requested a delivery of 11x Sour Diesel behind the shipping containers at the docks for $565.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2400
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.4f10",
-                    "Name": "11x Sour Diesel, Behind the shipping containers at the docks",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "6e9805d5-8aaf-4888-8355-d3e362abdcda",
-            "Payment": 565.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "sourdiesel",
                         "Quality": 2,
-                        "Quantity": 11
+                        "Quantity": 12
                     }
                 ]
             },
-            "DeliveryLocationGUID": "e785a83a-e26b-45b9-9701-0e3f48a6cff5",
+            "DeliveryLocationGUID": "48c7491e-2e94-4a55-b277-0ed4405e2b73",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 1800,
-                "WindowEndTime": 2400
+                "WindowStartTime": 0,
+                "WindowEndTime": 600
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.4f10",
-                "ElapsedDays": 49,
-                "Time": 2034
+                "ElapsedDays": 51,
+                "Time": 0
             }
         }
     ],
