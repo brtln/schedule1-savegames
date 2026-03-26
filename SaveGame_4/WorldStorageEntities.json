@@ -10,10 +10,10 @@
             "GUID": "5eec8f1e-7a2e-4869-b490-f793b6975738",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"weddingcock\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"baseballbat\",\"Quantity\":1}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"trimmers\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"greencrack\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
@@ -75,8 +75,8 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 32,
-                "time": 1340
+                "elapsedDays": 54,
+                "time": 1647
             }
         },
         {

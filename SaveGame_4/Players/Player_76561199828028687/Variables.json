@@ -155,7 +155,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PawnShopAngeredToday",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
@@ -169,7 +169,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ACToggleHintShown",
-            "Value": "False"
+            "Value": "True"
         }
     ]
 }

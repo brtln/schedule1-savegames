@@ -49,5 +49,34 @@
             ]
         }
     ],
-    "Objects": []
+    "Objects": [
+        {
+            "DataType": "SpawnStationData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"SpawnStationData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"65a5d797-ea11-48ea-ab62-f426a761f0ea\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"mushroomspawnstation\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"e68222af-0af0-45b1-9833-6716769fcf1b\",\"OriginCoordinate\":{\"x\":0.0,\"y\":0.0},\"Rotation\":0,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"grainbag\\\",\\\"Quantity\\\":2}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "MushroomBedData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"MushroomBedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"14ebc3c1-dd2b-4b7f-bf75-7642f11cd4f0\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"mushroombed\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"e68222af-0af0-45b1-9833-6716769fcf1b\",\"OriginCoordinate\":{\"x\":7.0,\"y\":0.0},\"Rotation\":-90,\"SoilID\":\"mushroomsubstrate\",\"SoilLevel\":30.0,\"RemainingSoilUses\":1,\"WaterLevel\":0.0,\"AppliedAdditives\":[\"fertilizer\"],\"ShroomColonyData\":{\"MushroomSpawnID\":\"shroomspawn\",\"GrowthProgress\":1.0,\"Quality\":0.800000011920929,\"ActiveMushroomAlignmentIndices\":[20,10,5,16,18,11,23,17,7,9,6,3,21,1,19,8]}}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "PlaceableStorageData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PlaceableStorageData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"b852fb70-9dfe-422f-9514-f1db7fdcd160\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"largestoragerack\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"e68222af-0af0-45b1-9833-6716769fcf1b\",\"OriginCoordinate\":{\"x\":3.0,\"y\":10.0},\"Rotation\":180,\"Contents\":{\"Items\":[\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"shroomspawn\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"fertilizer\\\",\\\"Quantity\\\":1}\",\"{\\\"DataType\\\":\\\"WateringCanData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"spraybottle\\\",\\\"Quantity\\\":1,\\\"CurrentFillAmount\\\":4.500000476837158}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\",\"{\\\"DataType\\\":\\\"ItemData\\\",\\\"DataVersion\\\":0,\\\"GameVersion\\\":\\\"0.4.4f10\\\",\\\"ID\\\":\\\"\\\",\\\"Quantity\\\":0}\"],\"SlotFilters\":[{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]},{\"Type\":0,\"ItemIDs\":[],\"AllowedQualities\":[0,1,2,3,4]}]}}",
+            "AdditionalDatas": []
+        },
+        {
+            "DataType": "AirConditionerData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"AirConditionerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"GUID\":\"613ec405-2012-4b4f-9937-a5d2e1f12cd2\",\"ItemString\":\"{\\n    \\\"DataType\\\": \\\"ItemData\\\",\\n    \\\"DataVersion\\\": 0,\\n    \\\"GameVersion\\\": \\\"0.4.4f10\\\",\\n    \\\"ID\\\": \\\"acunit\\\",\\n    \\\"Quantity\\\": 1\\n}\",\"LoadOrder\":0,\"GridGUID\":\"e68222af-0af0-45b1-9833-6716769fcf1b\",\"OriginCoordinate\":{\"x\":10.0,\"y\":0.0},\"Rotation\":-90,\"Mode\":1}",
+            "AdditionalDatas": []
+        }
+    ]
 }

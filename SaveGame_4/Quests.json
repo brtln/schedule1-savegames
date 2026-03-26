@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "GUID": "1a719086-5f4b-4495-8153-852994bc65d3",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Vibin' on the 'Cybin",
             "Description": "Learn how to grow magic mushrooms.",
@@ -47,49 +47,49 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Use the mushroom spawn station to inocculate a grain bag",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase a mushroom bed from Oscar",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase mushroom substrate from Fungal Phil",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Mix the shroom spawn into a mushroom bed",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase an AC unit from a hardware store",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Use the AC unit to cool the mushroom bed",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Harvest the shrooms once fully grown",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
-                    "Name": "Earn $10,000 ($304,831 / $10,000)",
+                    "Name": "Earn $10,000 ($321,959 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1381,6 +1381,111 @@
             ]
         }
     ],
-    "Contracts": [],
+    "Contracts": [
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "b58591c6-13d2-42a5-8ceb-0a8f74500d12",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Philip",
+            "Description": "Philip has requested a delivery of 13x Green Crack behind the casino for $675.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 55,
+                "Time": 600
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "13x Green Crack, Behind the casino",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
+            "Payment": 675.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "greencrack",
+                        "Quality": 2,
+                        "Quantity": 13
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "410ecf80-02ba-4d83-b9a4-1be350ff9fc8",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 0,
+                "WindowEndTime": 600
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 54,
+                "Time": 2215
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "7a69cbdd-3e12-4222-bb0b-6ceed0ce5325",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Jessi",
+            "Description": "Jessi has requested a delivery of 13x Granddaddy Purple behind Sauerkraut Supreme pizzeria for $675.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 55,
+                "Time": 600
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "13x Granddaddy Purple, Behind Sauerkraut Supreme Pizzeria",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "96e9d249-e181-4124-87c0-e1a1a4a3c626",
+            "Payment": 675.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 0,
+                        "Quantity": 13
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 0,
+                "WindowEndTime": 600
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 54,
+                "Time": 2300
+            }
+        }
+    ],
     "DeaddropQuests": []
 }

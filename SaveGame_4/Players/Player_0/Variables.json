@@ -8,14 +8,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Sleep_Count",
-            "Value": "38"
+            "Value": "39"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Inventory_Weed_Count",
-            "Value": "9"
+            "Value": "0"
         },
         {
             "DataType": "VariableData",
@@ -162,7 +162,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "MushroomTemperatureHintShown",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",

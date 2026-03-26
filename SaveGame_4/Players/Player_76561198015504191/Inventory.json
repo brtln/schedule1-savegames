@@ -1,14 +1,14 @@
 {
     "Items": [
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"mushroombed\",\"Quantity\":1}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"mushroomspawnstation\",\"Quantity\":1}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"purpledeath\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"strawberrydurkle\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"goldenskateboard\",\"Quantity\":1}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"graffiticleaner\",\"Quantity\":5}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"spraypaint\",\"Quantity\":2}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"fertilizer\",\"Quantity\":2}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1230.0}"
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":730.0}"
     ],
     "SlotFilters": [
         {
