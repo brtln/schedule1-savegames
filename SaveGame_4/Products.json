@@ -45,7 +45,19 @@
         "extrememint",
         "slimymint",
         "islanddick",
-        "extremeshart"
+        "extremeshart",
+        "miraclebud",
+        "pinkbud",
+        "bigsplooge",
+        "granddaddyfuel",
+        "bigcum",
+        "deathhaze",
+        "ultraqueef",
+        "laballs",
+        "bananagold",
+        "hairyrhino",
+        "dreamballs",
+        "megaassblaster"
     ],
     "ListedProducts": [
         "granddaddypurple",
@@ -257,6 +269,71 @@
             "Product": "horsesemen",
             "Mixer": "islanddick",
             "Output": "extremeshart"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "granddaddypurple",
+            "Output": "miraclebud"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "miraclebud",
+            "Output": "pinkbud"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "pinkbud",
+            "Output": "bigsplooge"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "bigsplooge",
+            "Output": "granddaddyfuel"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "granddaddyfuel",
+            "Output": "bigcum"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "bigcum",
+            "Output": "deathhaze"
+        },
+        {
+            "Product": "iodine",
+            "Mixer": "deathhaze",
+            "Output": "ultraqueef"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "ultraqueef",
+            "Output": "laballs"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "laballs",
+            "Output": "laballs"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "strawberryshart",
+            "Output": "bananagold"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "bananagold",
+            "Output": "hairyrhino"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "hairyrhino",
+            "Output": "dreamballs"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "dreamballs",
+            "Output": "megaassblaster"
         }
     ],
     "ProductPrices": [
@@ -431,6 +508,54 @@
         {
             "String": "extremeshart",
             "Int": 88
+        },
+        {
+            "String": "miraclebud",
+            "Int": 52
+        },
+        {
+            "String": "pinkbud",
+            "Int": 60
+        },
+        {
+            "String": "bigsplooge",
+            "Int": 68
+        },
+        {
+            "String": "granddaddyfuel",
+            "Int": 77
+        },
+        {
+            "String": "bigcum",
+            "Int": 54
+        },
+        {
+            "String": "deathhaze",
+            "Int": 71
+        },
+        {
+            "String": "ultraqueef",
+            "Int": 86
+        },
+        {
+            "String": "laballs",
+            "Int": 86
+        },
+        {
+            "String": "bananagold",
+            "Int": 58
+        },
+        {
+            "String": "hairyrhino",
+            "Int": 58
+        },
+        {
+            "String": "dreamballs",
+            "Int": 67
+        },
+        {
+            "String": "megaassblaster",
+            "Int": 76
         }
     ],
     "FavouritedProducts": [],
@@ -1560,6 +1685,499 @@
                     "a": 255
                 }
             }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Miracle Bud",
+            "ID": "miraclebud",
+            "DrugType": 0,
+            "Properties": [
+                "sneaky",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 110,
+                    "g": 108,
+                    "b": 103,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 96,
+                    "g": 98,
+                    "b": 99,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Pink Bud",
+            "ID": "pinkbud",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "sedating",
+                "foggy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 125,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 125,
+                    "g": 120,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Big Splooge",
+            "ID": "bigsplooge",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "sneaky",
+                "sedating",
+                "slippery"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 125,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 125,
+                    "g": 120,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Granddaddy Fuel",
+            "ID": "granddaddyfuel",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "toxic",
+                "sedating",
+                "foggy",
+                "glowie"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 125,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 125,
+                    "g": 120,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Big Cum",
+            "ID": "bigcum",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "munchies",
+                "toxic",
+                "disorienting",
+                "laxative",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 141,
+                    "g": 127,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 127,
+                    "g": 121,
+                    "b": 85,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Death Haze",
+            "ID": "deathhaze",
+            "DrugType": 0,
+            "Properties": [
+                "smelly",
+                "munchies",
+                "Focused",
+                "gingeritis",
+                "sneaky",
+                "laxative",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 128,
+                    "g": 125,
+                    "b": 77,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 117,
+                    "g": 113,
+                    "b": 74,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Ultra Queef",
+            "ID": "ultraqueef",
+            "DrugType": 0,
+            "Properties": [
+                "smelly",
+                "munchies",
+                "Focused",
+                "gingeritis",
+                "sneaky",
+                "laxative",
+                "athletic",
+                "jennerising"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 95,
+                    "g": 113,
+                    "b": 66,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 128,
+                    "g": 125,
+                    "b": 77,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 111,
+                    "g": 119,
+                    "b": 71,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 76,
+                    "g": 90,
+                    "b": 52,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "LA Balls",
+            "ID": "laballs",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "smelly",
+                "munchies",
+                "Focused",
+                "laxative",
+                "athletic",
+                "jennerising",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 95,
+                    "g": 113,
+                    "b": 66,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 128,
+                    "g": 125,
+                    "b": 77,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 111,
+                    "g": 119,
+                    "b": 71,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 76,
+                    "g": 90,
+                    "b": 52,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Banana Gold",
+            "ID": "bananagold",
+            "DrugType": 0,
+            "Properties": [
+                "athletic",
+                "slippery",
+                "schizophrenic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 102,
+                    "g": 145,
+                    "b": 153,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 131,
+                    "g": 175,
+                    "b": 185,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 116,
+                    "g": 160,
+                    "b": 169,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 81,
+                    "g": 116,
+                    "b": 122,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Hairy Rhino",
+            "ID": "hairyrhino",
+            "DrugType": 0,
+            "Properties": [
+                "munchies",
+                "energizing",
+                "athletic",
+                "schizophrenic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 143,
+                    "g": 144,
+                    "b": 87,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 124,
+                    "g": 122,
+                    "b": 79,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Dream Balls",
+            "ID": "dreamballs",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "energizing",
+                "caloriedense",
+                "athletic",
+                "schizophrenic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 164,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 133,
+                    "g": 140,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "Name": "Mega Assblaster",
+            "ID": "megaassblaster",
+            "DrugType": 0,
+            "Properties": [
+                "calming",
+                "munchies",
+                "caloriedense",
+                "athletic",
+                "slippery",
+                "schizophrenic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 116,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 141,
+                    "g": 127,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 127,
+                    "g": 121,
+                    "b": 85,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 92,
+                    "b": 65,
+                    "a": 255
+                }
+            }
         }
     ],
     "CreatedMeth": [
@@ -1734,566 +2352,6 @@
         }
     ],
     "ContractReceipts": [
-        {
-            "ReceiptId": -1775752652,
-            "CompletedBy": 1,
-            "CustomerId": "sam_thompson",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 1418
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 224.25
-        },
-        {
-            "ReceiptId": -91527212,
-            "CompletedBy": 0,
-            "CustomerId": "chloe_bowers",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 1535
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 4
-                }
-            ],
-            "AmountPaid": 241.5
-        },
-        {
-            "ReceiptId": -442821197,
-            "CompletedBy": 0,
-            "CustomerId": "joyce_ball",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 1652
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 251.5
-        },
-        {
-            "ReceiptId": -533424981,
-            "CompletedBy": 0,
-            "CustomerId": "ludwig_meyer",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 1746
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 3
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 10
-                }
-            ],
-            "AmountPaid": 365.0
-        },
-        {
-            "ReceiptId": -422490590,
-            "CompletedBy": 1,
-            "CustomerId": "kathy_henderson",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 1759
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 325.0
-        },
-        {
-            "ReceiptId": 2032668553,
-            "CompletedBy": 0,
-            "CustomerId": "jerry_montero",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 2032
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 7
-                }
-            ],
-            "AmountPaid": 349.25
-        },
-        {
-            "ReceiptId": 1337445299,
-            "CompletedBy": 1,
-            "CustomerId": "donna_martin",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 2108
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 283.5
-        },
-        {
-            "ReceiptId": -1216991702,
-            "CompletedBy": 0,
-            "CustomerId": "peggy_myers",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 2113
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 7
-                }
-            ],
-            "AmountPaid": 455.5
-        },
-        {
-            "ReceiptId": 1402193256,
-            "CompletedBy": 1,
-            "CustomerId": "mick_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 2201
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 398.25
-        },
-        {
-            "ReceiptId": 1282357404,
-            "CompletedBy": 1,
-            "CustomerId": "beth_penn",
-            "CompletionTime": {
-                "elapsedDays": 22,
-                "time": 2241
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 283.5
-        },
-        {
-            "ReceiptId": -889247651,
-            "CompletedBy": 0,
-            "CustomerId": "geraldine_poon",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 923
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 10
-                }
-            ],
-            "AmountPaid": 621.0
-        },
-        {
-            "ReceiptId": 555489825,
-            "CompletedBy": 1,
-            "CustomerId": "austin_steiner",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 929
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 362.25
-        },
-        {
-            "ReceiptId": 876110434,
-            "CompletedBy": 1,
-            "CustomerId": "kyle_cooley",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1203
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 456.25
-        },
-        {
-            "ReceiptId": -1394109201,
-            "CompletedBy": 1,
-            "CustomerId": "peter_file",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1246
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 393.75
-        },
-        {
-            "ReceiptId": 1226579704,
-            "CompletedBy": 1,
-            "CustomerId": "sam_thompson",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1322
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 224.25
-        },
-        {
-            "ReceiptId": 669366800,
-            "CompletedBy": 1,
-            "CustomerId": "doris_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1331
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 235.75
-        },
-        {
-            "ReceiptId": 1584567792,
-            "CompletedBy": 1,
-            "CustomerId": "ludwig_meyer",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1634
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 241.5
-        },
-        {
-            "ReceiptId": -1816179341,
-            "CompletedBy": 1,
-            "CustomerId": "chloe_bowers",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1652
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 241.5
-        },
-        {
-            "ReceiptId": -673699593,
-            "CompletedBy": 1,
-            "CustomerId": "peggy_myers",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1819
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 393.75
-        },
-        {
-            "ReceiptId": -342134547,
-            "CompletedBy": 1,
-            "CustomerId": "kathy_henderson",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 1833
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 275.0
-        },
-        {
-            "ReceiptId": 1320536085,
-            "CompletedBy": 1,
-            "CustomerId": "jerry_montero",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 2001
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 339.25
-        },
-        {
-            "ReceiptId": -358502221,
-            "CompletedBy": 1,
-            "CustomerId": "mick_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 2022
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 339.25
-        },
-        {
-            "ReceiptId": 589251076,
-            "CompletedBy": 1,
-            "CustomerId": "beth_penn",
-            "CompletionTime": {
-                "elapsedDays": 23,
-                "time": 2102
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 283.5
-        },
         {
             "ReceiptId": -1578447782,
             "CompletedBy": 1,
@@ -13701,6 +13759,582 @@
                 }
             ],
             "AmountPaid": 390.0
+        },
+        {
+            "ReceiptId": 1013092182,
+            "CompletedBy": 1,
+            "CustomerId": "austin_steiner",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 925
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 5
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 565.5
+        },
+        {
+            "ReceiptId": 1991877735,
+            "CompletedBy": 1,
+            "CustomerId": "meg_cooley",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1017
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 338.0
+        },
+        {
+            "ReceiptId": -216801005,
+            "CompletedBy": 1,
+            "CustomerId": "joyce_ball",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1046
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 299.0
+        },
+        {
+            "ReceiptId": -1620048003,
+            "CompletedBy": 1,
+            "CustomerId": "kyle_cooley",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1145
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 650.0
+        },
+        {
+            "ReceiptId": -1869303341,
+            "CompletedBy": 1,
+            "CustomerId": "elizabeth_homley",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1153
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 787.5
+        },
+        {
+            "ReceiptId": -1715545633,
+            "CompletedBy": 1,
+            "CustomerId": "peter_file",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1234
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 518.75
+        },
+        {
+            "ReceiptId": 1616580875,
+            "CompletedBy": 1,
+            "CustomerId": "lisa_gardener",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1330
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 488.75
+        },
+        {
+            "ReceiptId": -1899730079,
+            "CompletedBy": 2,
+            "CustomerId": "harold_colt",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1331
+            },
+            "Items": [
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                },
+                {
+                    "String": "meth",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 640.0
+        },
+        {
+            "ReceiptId": -1147753793,
+            "CompletedBy": 1,
+            "CustomerId": "sam_thompson",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1333
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 299.0
+        },
+        {
+            "ReceiptId": 1642870091,
+            "CompletedBy": 1,
+            "CustomerId": "doris_lubbin",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1421
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 338.0
+        },
+        {
+            "ReceiptId": 14768970,
+            "CompletedBy": 1,
+            "CustomerId": "charles_rowland",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1519
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 569.25
+        },
+        {
+            "ReceiptId": 700548381,
+            "CompletedBy": 1,
+            "CustomerId": "ludwig_meyer",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1528
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 379.5
+        },
+        {
+            "ReceiptId": 897944031,
+            "CompletedBy": 1,
+            "CustomerId": "eugene_buckley",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1557
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 477.25
+        },
+        {
+            "ReceiptId": -645610537,
+            "CompletedBy": 1,
+            "CustomerId": "chloe_bowers",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1617
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 299.0
+        },
+        {
+            "ReceiptId": 404851095,
+            "CompletedBy": 1,
+            "CustomerId": "geraldine_poon",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1632
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 1036.75
+        },
+        {
+            "ReceiptId": -856150374,
+            "CompletedBy": 1,
+            "CustomerId": "jennifer_rivera",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1705
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 477.25
+        },
+        {
+            "ReceiptId": 48745426,
+            "CompletedBy": 0,
+            "CustomerId": "george_greene",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1742
+            },
+            "Items": [
+                {
+                    "String": "meth",
+                    "Int": 10
+                }
+            ],
+            "AmountPaid": 930.0
+        },
+        {
+            "ReceiptId": -1594948022,
+            "CompletedBy": 0,
+            "CustomerId": "chris_sullivan",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 1914
+            },
+            "Items": [
+                {
+                    "String": "meth",
+                    "Int": 15
+                }
+            ],
+            "AmountPaid": 870.0
+        },
+        {
+            "ReceiptId": -1158264087,
+            "CompletedBy": 1,
+            "CustomerId": "mick_lubbin",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 2002
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 500.25
+        },
+        {
+            "ReceiptId": -1860520786,
+            "CompletedBy": 1,
+            "CustomerId": "javier_perez",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 2039
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 605.0
+        },
+        {
+            "ReceiptId": 1611120746,
+            "CompletedBy": 1,
+            "CustomerId": "ming",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 2042
+            },
+            "Items": [
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                },
+                {
+                    "String": "sourdiesel",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 276.0
+        },
+        {
+            "ReceiptId": -1642692027,
+            "CompletedBy": 1,
+            "CustomerId": "beth_penn",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 2140
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 351.0
+        },
+        {
+            "ReceiptId": 1121451439,
+            "CompletedBy": 1,
+            "CustomerId": "anna_chesterfield",
+            "CompletionTime": {
+                "elapsedDays": 51,
+                "time": 2156
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 650.0
         }
     ]
 }

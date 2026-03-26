@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Completed_Contracts_Count",
-            "Value": "685"
+            "Value": "708"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "HarvestedPlantCount",
-            "Value": "562"
+            "Value": "574"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PackagedProductCount",
-            "Value": "1483"
+            "Value": "1505"
         },
         {
             "DataType": "VariableData",
@@ -85,7 +85,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "SuccessfulSampleCount",
-            "Value": "32"
+            "Value": "33"
         },
         {
             "DataType": "VariableData",
@@ -106,35 +106,35 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Benji_CompletedDealCount",
-            "Value": "260"
+            "Value": "268"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ContainedTrashItems",
-            "Value": "1047"
+            "Value": "1089"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "TrashContainersBagged",
-            "Value": "79"
+            "Value": "83"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Started",
-            "Value": "38"
+            "Value": "52"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Completed",
-            "Value": "71"
+            "Value": "85"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Chemical_Operations_Completed",
-            "Value": "31"
+            "Value": "33"
         },
         {
             "DataType": "VariableData",
@@ -162,7 +162,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Collected",
-            "Value": "72"
+            "Value": "86"
         },
         {
             "DataType": "VariableData",
@@ -246,7 +246,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "TemperatureSystemEnabled",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",

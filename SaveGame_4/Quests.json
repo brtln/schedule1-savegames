@@ -8,8 +8,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "GUID": "1a719086-5f4b-4495-8153-852994bc65d3",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "Vibin' on the 'Cybin",
             "Description": "Learn how to grow magic mushrooms.",
             "Expires": false,
@@ -26,21 +26,21 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase a grain bag from Fungal Phil",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase a spore syringe from Fungal Phil",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
                     "Name": "Purchase a mushroom spawn station from Oscar",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -321,7 +321,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
-                    "Name": "Earn $10,000 ($264,607 / $10,000)",
+                    "Name": "Earn $10,000 ($276,313 / $10,000)",
                     "State": 2
                 }
             ]
@@ -1379,6 +1379,33 @@
                     "State": 2
                 }
             ]
+        },
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "e352e99e-2c3e-49d3-8eeb-7b7c1032ac44",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the western Gas-Mart",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "Behind Gas-Mart",
+                    "State": 1
+                }
+            ]
         }
     ],
     "Contracts": [
@@ -1386,17 +1413,69 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
-            "GUID": "dd4cc705-d0fe-4790-a735-d460032eae4c",
+            "GUID": "dacfb788-2fba-48ff-8568-c3e82e2b1bd5",
             "State": 1,
             "IsTracked": false,
-            "Title": "Deal for Philip",
-            "Description": "Philip has requested a delivery of 12x Granddaddy Purple behind the diner for $625.",
+            "Title": "Deal for Jerry",
+            "Description": "Jerry has requested a delivery of 3x Granddaddy Purple on the wharf west of the warehouse for $155.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.4f10",
                 "ElapsedDays": 51,
+                "Time": 2400
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "3x Granddaddy Purple, West Warehouse Wharf",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "56d2b6f3-53d4-49a9-a09d-dd5a768ff222",
+            "Payment": 155.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 3
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 1800,
+                "WindowEndTime": 2400
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 51,
+                "Time": 1820
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "9bbb7951-af10-4373-a254-e80afb8efb09",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Donna",
+            "Description": "Donna has requested a delivery of 5x Granddaddy Purple next to Bud's bar for $260.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 52,
                 "Time": 600
             },
             "Entries": [
@@ -1404,22 +1483,22 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.4f10",
-                    "Name": "12x Granddaddy Purple, Behind diner",
+                    "Name": "5x Granddaddy Purple, Next to Bud's Bar",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
-            "Payment": 625.0,
+            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
+            "Payment": 260.0,
             "ProductList": {
                 "entries": [
                     {
                         "ProductID": "granddaddypurple",
-                        "Quality": 2,
-                        "Quantity": 12
+                        "Quality": 1,
+                        "Quantity": 5
                     }
                 ]
             },
-            "DeliveryLocationGUID": "48c7491e-2e94-4a55-b277-0ed4405e2b73",
+            "DeliveryLocationGUID": "7549f5e4-3702-4890-aabf-a9a170cdf15b",
             "DeliveryWindow": {
                 "IsEnabled": true,
                 "WindowStartTime": 0,
@@ -1431,9 +1510,194 @@
                 "DataVersion": 0,
                 "GameVersion": "0.4.4f10",
                 "ElapsedDays": 51,
-                "Time": 0
+                "Time": 2000
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "009554f0-dd56-4a2e-a29a-8aa108552c49",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Billy",
+            "Description": "Billy has requested a delivery of 12x Granddaddy Purple in the central canal near the car wash for $550.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 52,
+                "Time": 1200
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "12x Granddaddy Purple, Central canal",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "c64e20d8-4473-4cd0-85d0-13de46ac1f11",
+            "Payment": 550.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 2,
+                        "Quantity": 12
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "23b689f9-628c-455e-bf81-111680a94150",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 51,
+                "Time": 2046
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "1104b544-c062-4b96-9e4e-9c9ae210ff94",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Deal for Dean",
+            "Description": "Dean has requested a delivery of 13x Granddaddy Purple in the west construction site for $675.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 52,
+                "Time": 1200
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "13x Granddaddy Purple, Construction site",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "3d4f4e03-506a-4fa9-b49c-3365802acf88",
+            "Payment": 675.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "granddaddypurple",
+                        "Quality": 1,
+                        "Quantity": 13
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "38d1c80c-0173-49b6-9701-65bd08219ee6",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 600,
+                "WindowEndTime": 1200
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 51,
+                "Time": 2059
+            }
+        },
+        {
+            "DataType": "ContractData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "9bbbfaa6-d57f-4dcd-a1f6-105e687f6603",
+            "State": 1,
+            "IsTracked": false,
+            "Title": "Deal for Philip",
+            "Description": "Philip has requested a delivery of 12x Green Crack on the wharf near the french restaurant for $625.",
+            "Expires": true,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 52,
+                "Time": 600
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "12x Green Crack, Wharf near french restaurant",
+                    "State": 1
+                }
+            ],
+            "CustomerGUID": "3c17038c-e7fe-47ca-8e5b-0c0c4ae5b391",
+            "Payment": 625.0,
+            "ProductList": {
+                "entries": [
+                    {
+                        "ProductID": "greencrack",
+                        "Quality": 2,
+                        "Quantity": 12
+                    }
+                ]
+            },
+            "DeliveryLocationGUID": "44a13b39-9939-4004-87b6-d596e726ef3b",
+            "DeliveryWindow": {
+                "IsEnabled": true,
+                "WindowStartTime": 0,
+                "WindowEndTime": 600
+            },
+            "PickupScheduleIndex": 0,
+            "AcceptTime": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 51,
+                "Time": 2215
             }
         }
     ],
-    "DeaddropQuests": []
+    "DeaddropQuests": [
+        {
+            "DataType": "DeaddropQuestData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "e352e99e-2c3e-49d3-8eeb-7b7c1032ac44",
+            "State": 1,
+            "IsTracked": true,
+            "Title": "Collect Dead Drop",
+            "Description": "Collect the dead drop behind the western Gas-Mart",
+            "Expires": false,
+            "ExpiryDate": {
+                "DataType": "GameDateTimeData",
+                "DataVersion": 0,
+                "GameVersion": "0.4.4f10",
+                "ElapsedDays": 0,
+                "Time": 0
+            },
+            "Entries": [
+                {
+                    "DataType": "QuestEntryData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Name": "Behind Gas-Mart",
+                    "State": 1
+                }
+            ],
+            "DeaddropGUID": "64d10032-64a9-4cd9-8750-8048d71c5029"
+        }
+    ]
 }
