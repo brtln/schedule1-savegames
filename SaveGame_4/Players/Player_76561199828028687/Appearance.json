@@ -7,12 +7,12 @@
         "b": 0.47999998927116396,
         "a": 1.0
     },
-    "HairStyle": "Avatar/Hair/Mohawk/Mohawk",
+    "HairStyle": "Avatar/Hair/BuzzCut/BuzzCut",
     "HairColor": {
-        "r": 1.0,
-        "g": 0.9800000190734863,
-        "b": 0.14000000059604646,
-        "a": 1.0
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
     },
     "Mouth": "Avatar/Layers/Face/Face_SlightSmile",
     "FacialHair": "Avatar/Layers/Face/FacialHair_Goatee",

@@ -11,6 +11,43 @@
         false
     ],
     "ToggleableStates": [],
-    "Employees": [],
+    "Employees": [
+        {
+            "DataType": "CleanerData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"CleanerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"rachel_scott\",\"AssignedProperty\":\"barn\",\"FirstName\":\"Rachel\",\"LastName\":\"Scott\",\"IsMale\":false,\"AppearanceIndex\":4,\"Position\":{\"x\":180.65884399414063,\"y\":-0.008779296651482582,\"z\":-5.211917877197266},\"Rotation\":{\"x\":0.0,\"y\":0.9601393938064575,\"z\":0.0,\"w\":-0.2795215845108032},\"GUID\":\"0c4ce9b9-78df-4109-9c8d-ed64da1f912a\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "AdditionalDatas": [
+                {
+                    "Name": "Configuration",
+                    "Contents": "{\n    \"DataType\": \"CleanerConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Bed\": {\n        \"ObjectGUID\": \"\"\n    },\n    \"Bins\": {\n        \"ObjectGUIDs\": []\n    }\n}"
+                }
+            ]
+        },
+        {
+            "DataType": "PackagerData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"PackagerData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"larry_nguyen\",\"AssignedProperty\":\"barn\",\"FirstName\":\"Larry\",\"LastName\":\"Nguyen\",\"IsMale\":true,\"AppearanceIndex\":2,\"Position\":{\"x\":179.82049560546876,\"y\":-0.008779296651482582,\"z\":-3.6989586353302},\"Rotation\":{\"x\":0.0,\"y\":0.9918633699417114,\"z\":0.0,\"w\":-0.12730681896209718},\"GUID\":\"a39d8fb5-b942-412c-876f-eaca8113ff14\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "AdditionalDatas": [
+                {
+                    "Name": "Configuration",
+                    "Contents": "{\n    \"DataType\": \"PackagerConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Bed\": {\n        \"ObjectGUID\": \"\"\n    },\n    \"Stations\": {\n        \"ObjectGUIDs\": []\n    },\n    \"Routes\": {\n        \"Routes\": []\n    }\n}"
+                }
+            ]
+        },
+        {
+            "DataType": "ChemistData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "BaseData": "{\"DataType\":\"ChemistData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"joseph_williams\",\"AssignedProperty\":\"barn\",\"FirstName\":\"Joseph\",\"LastName\":\"Williams\",\"IsMale\":true,\"AppearanceIndex\":3,\"Position\":{\"x\":181.4366912841797,\"y\":-0.008779296651482582,\"z\":-3.6870365142822267},\"Rotation\":{\"x\":0.0,\"y\":0.9258998036384583,\"z\":0.0,\"w\":-0.37776926159858706},\"GUID\":\"9507fa84-fd18-4b04-b20c-5fb5e5a49d80\",\"PaidForToday\":false,\"MoveItemData\":{\"TemplateItemJSON\":\"\",\"GrabbedItemQuantity\":0,\"SourceGUID\":\"\",\"DestinationGUID\":\"\"}}",
+            "AdditionalDatas": [
+                {
+                    "Name": "Configuration",
+                    "Contents": "{\n    \"DataType\": \"ChemistConfigurationData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.4.4f10\",\n    \"Bed\": {\n        \"ObjectGUID\": \"\"\n    },\n    \"Stations\": {\n        \"ObjectGUIDs\": []\n    }\n}"
+                }
+            ]
+        }
+    ],
     "Objects": []
 }
