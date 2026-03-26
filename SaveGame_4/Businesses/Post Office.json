@@ -23,13 +23,5 @@
             "AdditionalDatas": []
         }
     ],
-    "LaunderingOperations": [
-        {
-            "DataType": "LaunderOperationData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
-            "Amount": 4000.0,
-            "MinutesSinceStarted": 10
-        }
-    ]
+    "LaunderingOperations": []
 }

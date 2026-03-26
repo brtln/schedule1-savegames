@@ -26,18 +26,6 @@
                     "Int": 7
                 }
             ]
-        },
-        {
-            "DataType": "ShopData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
-            "ShopCode": "boutique",
-            "ItemStockQuantities": [
-                {
-                    "String": "artworkmillie",
-                    "Int": 0
-                }
-            ]
         }
     ]
 }

@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Completed_Contracts_Count",
-            "Value": "618"
+            "Value": "639"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "HarvestedPlantCount",
-            "Value": "529"
+            "Value": "539"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PackagedProductCount",
-            "Value": "1417"
+            "Value": "1456"
         },
         {
             "DataType": "VariableData",
@@ -106,35 +106,35 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Benji_CompletedDealCount",
-            "Value": "239"
+            "Value": "247"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ContainedTrashItems",
-            "Value": "969"
+            "Value": "980"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "TrashContainersBagged",
-            "Value": "72"
+            "Value": "73"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Started",
-            "Value": "25"
+            "Value": "28"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Completed",
-            "Value": "58"
+            "Value": "61"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Chemical_Operations_Completed",
-            "Value": "28"
+            "Value": "29"
         },
         {
             "DataType": "VariableData",
@@ -162,7 +162,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Mixing_Operations_Collected",
-            "Value": "59"
+            "Value": "62"
         },
         {
             "DataType": "VariableData",
@@ -204,7 +204,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "LaunderingOperationsCompleted",
-            "Value": "8"
+            "Value": "10"
         },
         {
             "DataType": "VariableData",
