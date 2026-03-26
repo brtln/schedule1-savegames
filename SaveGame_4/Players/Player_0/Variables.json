@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "Sleep_Count",
-            "Value": "39"
+            "Value": "40"
         },
         {
             "DataType": "VariableData",
@@ -169,7 +169,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "ACToggleHintShown",
-            "Value": "False"
+            "Value": "True"
         }
     ]
 }

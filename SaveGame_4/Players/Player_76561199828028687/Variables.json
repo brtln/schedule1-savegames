@@ -155,7 +155,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
             "Name": "PawnShopAngeredToday",
-            "Value": "True"
+            "Value": "False"
         },
         {
             "DataType": "VariableData",
