@@ -2,8 +2,261 @@
     "DataType": "DeliveriesData",
     "DataVersion": 0,
     "GameVersion": "0.4.4f10",
-    "ActiveDeliveries": [],
-    "DeliveryVehicles": [],
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "7aa70405-bab5-418c-8021-9f22cdccdee9",
+            "StoreName": "Albert Hoover",
+            "DestinationCode": "storageunit",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "granddaddypurpleseed",
+                    "Int": 20
+                },
+                {
+                    "String": "greencrackseed",
+                    "Int": 20
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        }
+    ],
+    "DeliveryVehicles": [
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.4f10",
+            "GUID": "07fe023d-ccc3-45d4-87f9-ae7315d6a817",
+            "VehicleCode": "veeper",
+            "Position": {
+                "x": -6.750003814697266,
+                "y": 0.6050000190734863,
+                "z": 98.4330062866211
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 3.2782554626464846e-7
+            },
+            "Color": "DarkGreen",
+            "VehicleContents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"granddaddypurpleseed\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"granddaddypurpleseed\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"greencrackseed\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"greencrackseed\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "SpraySurfaces": [
+                {
+                    "DataType": "SpraySurfaceData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Strokes": [],
+                    "ContainsCartelGraffiti": false
+                },
+                {
+                    "DataType": "SpraySurfaceData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.4f10",
+                    "Strokes": [],
+                    "ContainsCartelGraffiti": false
+                }
+            ]
+        }
+    ],
     "DeliveryHistory": [
         {
             "StoreName": "Oscar's Store",
@@ -40,6 +293,21 @@
                 {
                     "String": "fertilizer",
                     "Int": 10
+                }
+            ]
+        },
+        {
+            "StoreName": "Albert Hoover",
+            "DestinationCode": "storageunit",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "granddaddypurpleseed",
+                    "Int": 20
+                },
+                {
+                    "String": "greencrackseed",
+                    "Int": 20
                 }
             ]
         }

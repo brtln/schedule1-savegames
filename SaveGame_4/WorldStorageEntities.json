@@ -83,13 +83,13 @@
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
             "GameVersion": "0.4.4f10",
-            "GUID": "53bc8671-9771-404a-8b72-131b60ab7ce4",
+            "GUID": "6fecba7a-55a7-4917-ad65-c492fc32b675",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"spraypaint\",\"Quantity\":4}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"grainbag\",\"Quantity\":4}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"sporesyringe\",\"Quantity\":2}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"mushroomsubstrate\",\"Quantity\":2}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"fertilizer\",\"Quantity\":2}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
@@ -151,8 +151,8 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 51,
-                "time": 1949
+                "elapsedDays": 52,
+                "time": 700
             }
         },
         {
@@ -163,9 +163,9 @@
             "Contents": {
                 "Items": [
                     "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"sourdiesel\",\"Quantity\":2,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"strawberryshart\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
                     "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
@@ -227,8 +227,8 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 46,
-                "time": 2316
+                "elapsedDays": 52,
+                "time": 1837
             }
         },
         {

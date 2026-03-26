@@ -4,11 +4,11 @@
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"lightweightskateboard\",\"Quantity\":1}",
         "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":23}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"goldenskateboard\",\"Quantity\":1}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"spraypaint\",\"Quantity\":3}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":900.0}"
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":0.0}"
     ],
     "SlotFilters": [
         {
