@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "Completed_Contracts_Count",
-            "Value": "1134"
+            "Value": "1148"
         },
         {
             "DataType": "VariableData",
@@ -57,14 +57,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "HarvestedPlantCount",
-            "Value": "914"
+            "Value": "939"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "PackagedProductCount",
-            "Value": "2222"
+            "Value": "2322"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "Benji_CompletedDealCount",
-            "Value": "378"
+            "Value": "384"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "ContainedTrashItems",
-            "Value": "1718"
+            "Value": "1772"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "TrashContainersBagged",
-            "Value": "137"
+            "Value": "142"
         },
         {
             "DataType": "VariableData",
@@ -197,7 +197,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "LaunderingOperationsStarted",
-            "Value": "15"
+            "Value": "16"
         },
         {
             "DataType": "VariableData",
