@@ -2,13 +2,13 @@
     "Items": [
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"goldenskateboard\",\"Quantity\":1}",
         "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"pumpshotgun\",\"Quantity\":1,\"Value\":5}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"shotgunshell\",\"Quantity\":1}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"granddaddypurple\",\"Quantity\":3,\"Quality\":\"Premium\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"shotgunshell\",\"Quantity\":10}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":2328.880126953125}"
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":778.880126953125}"
     ],
     "SlotFilters": [
         {

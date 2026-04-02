@@ -127,7 +127,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.5f1",
             "Name": "RayGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",

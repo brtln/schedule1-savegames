@@ -2,261 +2,8 @@
     "DataType": "DeliveriesData",
     "DataVersion": 0,
     "GameVersion": "0.4.5f1",
-    "ActiveDeliveries": [
-        {
-            "DeliveryID": "d9796342-963e-4ace-b3d3-fb98f41b1e90",
-            "StoreName": "Dan's Hardware",
-            "DestinationCode": "storageunit",
-            "LoadingDockIndex": 0,
-            "Items": [
-                {
-                    "String": "jar",
-                    "Int": 30
-                },
-                {
-                    "String": "longlifesoil",
-                    "Int": 20
-                }
-            ],
-            "Status": 2,
-            "TimeUntilArrival": 0
-        }
-    ],
-    "DeliveryVehicles": [
-        {
-            "DataType": "VehicleData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.5f1",
-            "GUID": "f54ed147-161d-4be4-8c02-5dca4da391f1",
-            "VehicleCode": "veeper",
-            "Position": {
-                "x": -6.750003814697266,
-                "y": 0.6050000190734863,
-                "z": 98.4330062866211
-            },
-            "Rotation": {
-                "x": 0.0,
-                "y": 1.0,
-                "z": 0.0,
-                "w": 3.2782554626464846e-7
-            },
-            "Color": "White",
-            "VehicleContents": {
-                "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"jar\",\"Quantity\":10}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"longlifesoil\",\"Quantity\":10}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"longlifesoil\",\"Quantity\":10}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
-                ],
-                "SlotFilters": [
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    }
-                ]
-            },
-            "SpraySurfaces": [
-                {
-                    "DataType": "SpraySurfaceData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.5f1",
-                    "Strokes": [],
-                    "ContainsCartelGraffiti": false
-                },
-                {
-                    "DataType": "SpraySurfaceData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.5f1",
-                    "Strokes": [],
-                    "ContainsCartelGraffiti": false
-                }
-            ]
-        }
-    ],
+    "ActiveDeliveries": [],
+    "DeliveryVehicles": [],
     "DeliveryHistory": [
         {
             "DeliveryID": "",
@@ -529,6 +276,22 @@
                     "Int": 20
                 }
             ]
+        },
+        {
+            "DeliveryID": "d14b4f41-8866-41a5-a2f9-7ab68235f364",
+            "StoreName": "Dan's Hardware",
+            "DestinationCode": "barn",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "extralonglifesoil",
+                    "Int": 20
+                },
+                {
+                    "String": "fertilizer",
+                    "Int": 20
+                }
+            ]
         }
     ],
     "DisplayedDeliveryHistory": [
@@ -728,6 +491,22 @@
                 },
                 {
                     "String": "longlifesoil",
+                    "Int": 20
+                }
+            ]
+        },
+        {
+            "DeliveryID": "d14b4f41-8866-41a5-a2f9-7ab68235f364",
+            "StoreName": "Dan's Hardware",
+            "DestinationCode": "barn",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "extralonglifesoil",
+                    "Int": 20
+                },
+                {
+                    "String": "fertilizer",
                     "Int": 20
                 }
             ]

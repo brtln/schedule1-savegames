@@ -2352,522 +2352,6 @@
     ],
     "ContractReceipts": [
         {
-            "ReceiptId": 1175019847,
-            "CompletedBy": 0,
-            "CustomerId": "lucy_pennington",
-            "CompletionTime": {
-                "elapsedDays": 49,
-                "time": 1947
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 10
-                }
-            ],
-            "AmountPaid": 615.0
-        },
-        {
-            "ReceiptId": 889725883,
-            "CompletedBy": 1,
-            "CustomerId": "mick_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 49,
-                "time": 2102
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 560.25
-        },
-        {
-            "ReceiptId": 450929856,
-            "CompletedBy": 1,
-            "CustomerId": "jerry_montero",
-            "CompletionTime": {
-                "elapsedDays": 49,
-                "time": 2122
-            },
-            "Items": [
-                {
-                    "String": "megasmegma",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 135.0
-        },
-        {
-            "ReceiptId": 92697298,
-            "CompletedBy": 1,
-            "CustomerId": "beth_penn",
-            "CompletionTime": {
-                "elapsedDays": 49,
-                "time": 2146
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 351.0
-        },
-        {
-            "ReceiptId": 1320354543,
-            "CompletedBy": 1,
-            "CustomerId": "austin_steiner",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 926
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 565.5
-        },
-        {
-            "ReceiptId": 2082766800,
-            "CompletedBy": 1,
-            "CustomerId": "meg_cooley",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 959
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 333.5
-        },
-        {
-            "ReceiptId": -289136650,
-            "CompletedBy": 1,
-            "CustomerId": "joyce_ball",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1044
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 299.0
-        },
-        {
-            "ReceiptId": 1283044923,
-            "CompletedBy": 1,
-            "CustomerId": "kyle_cooley",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1215
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 679.0
-        },
-        {
-            "ReceiptId": 1891372016,
-            "CompletedBy": 1,
-            "CustomerId": "peter_file",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1215
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 518.75
-        },
-        {
-            "ReceiptId": -560276220,
-            "CompletedBy": 1,
-            "CustomerId": "elizabeth_homley",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1240
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 627.0
-        },
-        {
-            "ReceiptId": 1873166901,
-            "CompletedBy": 0,
-            "CustomerId": "donna_martin",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1246
-            },
-            "Items": [
-                {
-                    "String": "meth",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 200.0
-        },
-        {
-            "ReceiptId": 895348889,
-            "CompletedBy": 1,
-            "CustomerId": "doris_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1300
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 518.75
-        },
-        {
-            "ReceiptId": 515304330,
-            "CompletedBy": 1,
-            "CustomerId": "sam_thompson",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1345
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 299.0
-        },
-        {
-            "ReceiptId": -106277464,
-            "CompletedBy": 1,
-            "CustomerId": "charles_rowland",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1418
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 448.5
-        },
-        {
-            "ReceiptId": 429169476,
-            "CompletedBy": 1,
-            "CustomerId": "eugene_buckley",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1500
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 500.25
-        },
-        {
-            "ReceiptId": -264197295,
-            "CompletedBy": 1,
-            "CustomerId": "ludwig_meyer",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1535
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 299.0
-        },
-        {
-            "ReceiptId": 2131261934,
-            "CompletedBy": 1,
-            "CustomerId": "geraldine_poon",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1624
-            },
-            "Items": [
-                {
-                    "String": "sourdiesel",
-                    "Int": 5
-                },
-                {
-                    "String": "sourdiesel",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 420.5
-        },
-        {
-            "ReceiptId": 1212778022,
-            "CompletedBy": 1,
-            "CustomerId": "chloe_bowers",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1626
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 299.0
-        },
-        {
-            "ReceiptId": -1870508862,
-            "CompletedBy": 1,
-            "CustomerId": "kathy_henderson",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1813
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 5
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 618.75
-        },
-        {
-            "ReceiptId": -894860694,
-            "CompletedBy": 1,
-            "CustomerId": "peggy_myers",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1858
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 518.75
-        },
-        {
-            "ReceiptId": 1562521166,
-            "CompletedBy": 0,
-            "CustomerId": "bruce_norton",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 1950
-            },
-            "Items": [
-                {
-                    "String": "greencrack",
-                    "Int": 5
-                },
-                {
-                    "String": "greencrack",
-                    "Int": 7
-                }
-            ],
-            "AmountPaid": 671.875
-        },
-        {
-            "ReceiptId": 516982552,
-            "CompletedBy": 1,
-            "CustomerId": "mick_lubbin",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 2021
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 1
-                }
-            ],
-            "AmountPaid": 477.25
-        },
-        {
-            "ReceiptId": -2049808547,
-            "CompletedBy": 1,
-            "CustomerId": "javier_perez",
-            "CompletionTime": {
-                "elapsedDays": 50,
-                "time": 2034
-            },
-            "Items": [
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                },
-                {
-                    "String": "granddaddypurple",
-                    "Int": 5
-                }
-            ],
-            "AmountPaid": 550.0
-        },
-        {
             "ReceiptId": 1047860141,
             "CompletedBy": 1,
             "CustomerId": "jerry_montero",
@@ -13658,6 +13142,490 @@
                 }
             ],
             "AmountPaid": 480.0
+        },
+        {
+            "ReceiptId": 156227916,
+            "CompletedBy": 1,
+            "CustomerId": "meg_cooley",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1028
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 416.0
+        },
+        {
+            "ReceiptId": 589383349,
+            "CompletedBy": 1,
+            "CustomerId": "joyce_ball",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1034
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 416.0
+        },
+        {
+            "ReceiptId": -1739013606,
+            "CompletedBy": 1,
+            "CustomerId": "austin_steiner",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1109
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 247.25
+        },
+        {
+            "ReceiptId": 1992894841,
+            "CompletedBy": 1,
+            "CustomerId": "louis_fourier",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1154
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 588.5
+        },
+        {
+            "ReceiptId": 260127864,
+            "CompletedBy": 1,
+            "CustomerId": "doris_lubbin",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1249
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 448.0
+        },
+        {
+            "ReceiptId": -427581432,
+            "CompletedBy": 1,
+            "CustomerId": "sam_thompson",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1325
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 416.0
+        },
+        {
+            "ReceiptId": -813124895,
+            "CompletedBy": 1,
+            "CustomerId": "elizabeth_homley",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1328
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 630.0
+        },
+        {
+            "ReceiptId": 2118817786,
+            "CompletedBy": 0,
+            "CustomerId": "jen_heard",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1357
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 20
+                }
+            ],
+            "AmountPaid": 805.0
+        },
+        {
+            "ReceiptId": -875613080,
+            "CompletedBy": 1,
+            "CustomerId": "george_greene",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1402
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 1040.0
+        },
+        {
+            "ReceiptId": 1445570878,
+            "CompletedBy": 1,
+            "CustomerId": "eugene_buckley",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1418
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 184.0
+        },
+        {
+            "ReceiptId": 1960393601,
+            "CompletedBy": 1,
+            "CustomerId": "lucy_pennington",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1501
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 535.0
+        },
+        {
+            "ReceiptId": 863934237,
+            "CompletedBy": 1,
+            "CustomerId": "charles_rowland",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1526
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 695.5
+        },
+        {
+            "ReceiptId": -1060932899,
+            "CompletedBy": 1,
+            "CustomerId": "ludwig_meyer",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1529
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 520.0
+        },
+        {
+            "ReceiptId": 142023828,
+            "CompletedBy": 1,
+            "CustomerId": "chloe_bowers",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1634
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 279.5
+        },
+        {
+            "ReceiptId": -2048444472,
+            "CompletedBy": 0,
+            "CustomerId": "geraldine_poon",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1734
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 20
+                }
+            ],
+            "AmountPaid": 1290.0
+        },
+        {
+            "ReceiptId": 1354270477,
+            "CompletedBy": 0,
+            "CustomerId": "peter_file",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1756
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 15
+                }
+            ],
+            "AmountPaid": 745.5
+        },
+        {
+            "ReceiptId": -1044464531,
+            "CompletedBy": 1,
+            "CustomerId": "jerry_montero",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 1832
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 896.0
+        },
+        {
+            "ReceiptId": -1320458061,
+            "CompletedBy": 1,
+            "CustomerId": "trent_sherman",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 2043
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 416.0
+        },
+        {
+            "ReceiptId": 271061519,
+            "CompletedBy": 1,
+            "CustomerId": "dean_webster",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 2105
+            },
+            "Items": [
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                },
+                {
+                    "String": "greencrack",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 1200.0
+        },
+        {
+            "ReceiptId": 925410902,
+            "CompletedBy": 1,
+            "CustomerId": "kim_delaney",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 2243
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                }
+            ],
+            "AmountPaid": 802.5
+        },
+        {
+            "ReceiptId": 400467618,
+            "CompletedBy": 0,
+            "CustomerId": "kyle_cooley",
+            "CompletionTime": {
+                "elapsedDays": 67,
+                "time": 2358
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 15
+                }
+            ],
+            "AmountPaid": 917.5
+        },
+        {
+            "ReceiptId": -456002368,
+            "CompletedBy": 0,
+            "CustomerId": "karen_kennedy",
+            "CompletionTime": {
+                "elapsedDays": 68,
+                "time": 44
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 20
+                }
+            ],
+            "AmountPaid": 1076.0
+        },
+        {
+            "ReceiptId": 537837610,
+            "CompletedBy": 1,
+            "CustomerId": "keith_wagner",
+            "CompletionTime": {
+                "elapsedDays": 68,
+                "time": 112
+            },
+            "Items": [
+                {
+                    "String": "granddaddypurple",
+                    "Int": 5
+                },
+                {
+                    "String": "granddaddypurple",
+                    "Int": 1
+                }
+            ],
+            "AmountPaid": 519.75
         }
     ]
 }
