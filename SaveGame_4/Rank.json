@@ -1,11 +1,11 @@
 {
     "DataType": "RankData",
     "DataVersion": 1,
-    "GameVersion": "0.4.4f10",
+    "GameVersion": "0.4.5f1",
     "Rank": 7,
-    "Tier": 1,
-    "XP": 937,
-    "TotalXP": 29812,
+    "Tier": 5,
+    "XP": 1139,
+    "TotalXP": 36714,
     "UnlockedRegions": [
         0,
         1,

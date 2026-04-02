@@ -1,7 +1,7 @@
 {
     "DataType": "ManorData",
     "DataVersion": 0,
-    "GameVersion": "0.4.4f10",
+    "GameVersion": "0.4.5f1",
     "PropertyCode": "manor",
     "IsOwned": false,
     "SwitchStates": [
@@ -17,7 +17,7 @@
     "ToggleableStates": [],
     "Employees": [],
     "Objects": [],
-    "ManorState": 0,
-    "DaysSinceStateChange": 1056,
-    "TunnelDug": false
+    "ManorState": 1,
+    "DaysSinceStateChange": 1,
+    "TunnelDug": true
 }

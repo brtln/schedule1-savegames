@@ -1,20 +1,20 @@
 {
     "DataType": "WorldStorageEntitiesData",
     "DataVersion": 0,
-    "GameVersion": "0.4.4f10",
+    "GameVersion": "0.4.5f1",
     "Entities": [
         {
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
+            "GameVersion": "0.4.5f1",
             "GUID": "16d32388-5e3b-4e12-9841-f04033c01c25",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"fertilizer\",\"Quantity\":2}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
                     {
@@ -75,22 +75,22 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 56,
-                "time": 934
+                "elapsedDays": 58,
+                "time": 1344
             }
         },
         {
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
+            "GameVersion": "0.4.5f1",
             "GUID": "5eec8f1e-7a2e-4869-b490-f793b6975738",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"weddingcock\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"baseballbat\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"trimmers\",\"Quantity\":1}",
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"greencrack\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}"
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"weddingcock\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"baseballbat\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"trimmers\",\"Quantity\":1}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"greencrack\",\"Quantity\":4,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
                     {
@@ -151,98 +151,22 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 56,
-                "time": 934
+                "elapsedDays": 58,
+                "time": 1347
             }
         },
         {
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
-            "GUID": "14765c8e-e741-406e-bb4b-e9143d1d3cfd",
-            "Contents": {
-                "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"purpledeath\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
-                ],
-                "SlotFilters": [
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    },
-                    {
-                        "Type": 0,
-                        "ItemIDs": [],
-                        "AllowedQualities": [
-                            0,
-                            1,
-                            2,
-                            3,
-                            4
-                        ]
-                    }
-                ]
-            },
-            "LastContentChangeTime": {
-                "elapsedDays": 56,
-                "time": 837
-            }
-        },
-        {
-            "DataType": "WorldStorageEntityData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
+            "GameVersion": "0.4.5f1",
             "GUID": "35c1574a-d7db-4712-9745-4e219d9918e6",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"sourdiesel\",\"Quantity\":2,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}",
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
-                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"strawberryshart\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"jar\",\"Quantity\":20}"
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"sourdiesel\",\"Quantity\":2,\"Quality\":\"Premium\",\"PackagingID\":\"\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"granddaddypurple\",\"Quantity\":1,\"Quality\":\"Heavenly\",\"PackagingID\":\"\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
                     {
@@ -303,22 +227,22 @@
                 ]
             },
             "LastContentChangeTime": {
-                "elapsedDays": 56,
-                "time": 1917
+                "elapsedDays": 62,
+                "time": 1545
             }
         },
         {
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
+            "GameVersion": "0.4.5f1",
             "GUID": "5397778b-2463-4b1e-9f61-9ba06265627d",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":5.5}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
+                    "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":5.5}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
                     {
@@ -386,15 +310,15 @@
         {
             "DataType": "WorldStorageEntityData",
             "DataVersion": 0,
-            "GameVersion": "0.4.4f10",
+            "GameVersion": "0.4.5f1",
             "GUID": "f8798f7c-11e8-4b12-8ce2-9592ad7f1c92",
             "Contents": {
                 "Items": [
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"iodine\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"addy\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"battery\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"banana\",\"Quantity\":1}",
-                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.4f10\",\"ID\":\"\",\"Quantity\":0}"
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"iodine\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"addy\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"battery\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"banana\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.5f1\",\"ID\":\"\",\"Quantity\":0}"
                 ],
                 "SlotFilters": [
                     {

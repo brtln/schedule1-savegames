@@ -1,10 +1,11 @@
 {
     "DataType": "GameData",
     "DataVersion": 0,
-    "GameVersion": "0.4.4f10",
+    "GameVersion": "0.4.5f1",
     "OrganisationName": "MafiaMokro3",
     "Seed": 1421135865,
     "Settings": {
-        "ConsoleEnabled": true
+        "ConsoleEnabled": true,
+        "UseRandomizedMixMaps": false
     }
 }
